@@ -1,0 +1,12 @@
+YGOPokemon	07-10-21
+plugins/YGOPokemon/plugininfo.txt	https://raw.githubusercontent.com/FernanOyana/YGOPokemon/main/plugininfo.txt	378637
+plugins/YGOPokemon/defaultchat.txt	https://raw.githubusercontent.com/FernanOyana/YGOPokemon/main/defaultchat.txt	12905
+plugins/YGONaruto/formats.txt	https://raw.githubusercontent.com/FernanOyana/YGOPokemon/main/formats.txt	307676
+plugins/YGOPokemon/sets/CardData1.txt	https://raw.githubusercontent.com/FernanOyana/YGOPokemon/main/CardData1.txt	15378096
+plugins/YGOPokemon/version.txt	https://raw.githubusercontent.com/FernanOyana/YGOPokemon/main/version.txt	27010
+plugins/YGOPokemon/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/FernanOyana/YGOPokemon/main/cardback.jpg	181649
+plugins/YGONaruto/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/FernanOyana/YGOPokemon/main/spawned.jpg	181649
+plugins/YGOPokemon/CardImageURLs1.txt	https://raw.githubusercontent.com/FernanOyana/YGOPokemon/main/CardImageURLs1.txt	6186622
+CardImageURLs:
+CardImageURLs1.txt
+
