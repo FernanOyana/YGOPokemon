@@ -1,0 +1,8 @@
+<version>
+
+<lastupdateYYMMDD>070721</lastupdateYYMMDD>
+<quality>high</quality>
+<versionurl>https://raw.githubusercontent.com/FernanOyana/YGOPokemon/main/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/FernanOyana/YGOPokemon/main/updatelist.txt</updateurl>
+
+</version>
