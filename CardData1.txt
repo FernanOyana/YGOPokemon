@@ -1,0 +1,300 @@
+Name	Set	ImageFile	Type	Attribute	Level	ATK	DEF	Limit	Format	Text
+Bulbasaur	5DS1	Bulbasaur	Planta	Tierra	4	600	900	3	TCG	Cuando esta carta destruye a 1 Pokemon, incrementa tus Life Points en un valor equivalente a la diferencia entre los puntos de ATK de ambas cartas.
+Ivysaur	5DS1	Ivysaur	Planta	Tierra	5	1200	1600	3	TCG	Cuando esta carta es invocada de forma normal con exito, anade 1 'Paralizador' de tu mazo a tu mano. Mezcla el mazo.
+Venusaur	5DS1	Venusaur	Planta	Tierra	7	1800	2000	3	TCG	En cada una de tus standby phases, mientras esta carta permanezca en tu lado del campo, incrementa tus Life Points en 500 puntos.
+Charmander	5DS1	Charmander	Fuego	Fuego	4	800	500	3	TCG	Durante la fase de batalla de tu turno, si tus Life Points son 2000 o menos, duplica el ATK de esta carta.
+Charmeleon	5DS1	Charmeleon	Fuego	Fuego	5	1500	1200	3	TCG	Cuando esta carta declara un ataque, antes del calculo de dano, reduce el ATK del objetivo en 300 puntos.
+Charizard	5DS1	Charizard	Fuego	Viento	7	2000	1800	3	TCG	Esta carta no puede ser seleccionada por ataques de Pokemon Tierra. Cuando esta carta es invocada de forma normal con exito, reduce el ATK de todos los Pokemon del oponente en 600 puntos. Una vez por turno, durante tu Main Phase, puedes anadir 1 'Llamarada' de tu mazo a tu mano. Mezcla el mazo
+Squirtle	5DS1	Squirtle	Agua	Agua	4	700	1100	3	TCG	Durante la fase de batalla del turno de cualquier jugador, puedes cambiar esta carta a posicion de DEF.
+Wartortle	5DS1	Wartortle	Agua	Agua	5	1550	1600	3	TCG	Durante la fase de batalla de tu turno, si tus Life Points son 2000 o menos, duplica el ATK de esta carta. Si 'Danza lluvia' está activa en el campo, en cada una de tus Standby Phases incrementa tus Life Points en 200 puntos.
+Blastoise	5DS1	Blastoise	Agua	Agua	7	1900	2500	3	TCG	Mientras controles esta carta, incrementa en 300 puntos el ATK de los Pokemon de Agua en tu lado del campo.
+Caterpie	5DS1	Caterpie	Bicho	Tierra	2	200	100	3	TCG	Tiene la piel de color verde. Cuando la muda, se recubre de seda y se convierte en capullo
+Metapod	5DS1	Metapod	Bicho	Tierra	5	0	500	3	TCG	Esta carta solo puede ser invocada de forma especial enviando 1 'Caterpie' en tu lado del campo. Cuando es declarada como objetivo de ataque, incrementa su DEF en 300 puntos
+Butterfree	5DS1	Butterfree	Bicho	Viento	5	1000	1400	3	TCG	Cuando esta carta batalla contra 1 Pokemon Psiquico, duplica su ATK hasta el final del turno.
+Weedle	5DS1	Weedle	Bicho	Tierra	2	250	200	3	TCG	Cuando esta carta ataca a 1 Pokemon, antes del calculo de dano, reduce la DEF del objetivo en 200 puntos.
+Kakuna	5DS1	Kakuna	Bicho	Tierra	5	0	600	3	TCG	Esta carta solo puede ser invocada de forma especial enviando 1 'Weedle' en tu lado del campo. Cuando es declarada como objetivo de ataque, incrementa su DEF en 300 puntos
+Beedrill	5DS1	Beedrill	Bicho	Tierra	5	1100	1300	3	TCG	Esta carta puede atacar 2 veces en un mismo turno.
+Pidgey	5DS1	Pidgey	Volador	Viento	3	500	700	3	TCG	Esta carta no puede ser seleccionada por ataques de Pokemon Tierra. Cuando batalla contra 1 Pokemon Planta o Bicho, duplica su ATK hasta el final del turno
+Pidgeotto	5DS1	Pidgeotto	Volador	Viento	5	1200	1100	3	TCG	Esta carta no puede ser seleccionada por ataques de Pokemon Tierra. Durante la fase de batalla de tu turno, puede atacar directamente a los Life Points del oponente
+Pidgeot 	5DS1	Pidgeot	Volador	Viento	7	1850	1500	3	TCG	Esta carta no puede ser seleccionada por ataques de Pokemon Tierra. Una vez por turno, selecciona 1 Pokemon que el oponente controla y regresalo a la mano de su propietario.
+Rattata	5DS1	Rattata	Normal	Tierra	3	800	500	3	TCG	Tiene unos largos y afilados colmillos que no dejan de crecer. Le resultan muy utiles para destruir cosas
+Raticate	5DS1	Raticate	Normal	Tierra	5	1600	1100	3	TCG	Cada pata trasera tiene tres dedos palmeados que le permiten nadar por los rios
+Spearow	5DS1	Spearow	Volador	Viento	3	600	750	3	TCG	Esta carta no puede ser seleccionada por ataques de Pokemon Tierra. Cuando esta carta es invocada de forma normal con exito, selecciona 1 Pokemon del oponente: reduce su ATK en 200 puntos
+Fearow	5DS1	Fearow	Volador	Viento	5	1700	1500	3	TCG	Esta carta no puede ser seleccionada por ataques de Pokemon Tierra. Cuando ataca a 1 Pokemon en posicion de defensa, inflige dano de penetracion
+Ekans	5DS1	Ekans	Veneno	Tierra	3	700	500	3	TCG	Cuando esta carta es invocada de forma normal, reduce la DEF de los Pokemon del oponente en 300 puntos
+Arbok	5DS1	Arbok	Veneno	Tierra	5	1600	1400	3	TCG	Una vez por turno, selecciona 1 carta de Pokemon que el oponente controla y cambiala a posicion de defensa.  
+Pikachu	5DS1	Pikachu	Electrico	Luz	4	1100	900	3	TCG	Durante la fase de batalla de tu turno, antes del cálculo de dano, si esta carta batalla contra un Pokemon de Agua o Viento, duplica su ATK.
+Raichu	5DS1	Raichu	Electrico	Luz	5	1600	1500	3	TCG	Esta carta solo puede ser invocada por el efecto de "Piedra Trueno". Cuando es invocada con exito, anade 1 "Rayo" de tu mazo a tu mano. Mezcla el mazo.
+Sandshrew	5DS1	Sandshrew	Tierra	Tierra	4	900	1200	3	TCG	Esta carta no puede ser destruida en batalla por Pokemon Electricos. Si 'Tormenta de Arena' se encuentra activa en el campo, esta carta no puede ser destruida como resultado de una batalla
+Sandslash	5DS1	Sandslash	Tierra	Tierra	5	1600	1700	3	TCG	Esta carta no puede ser destruida en batalla por Pokemon Electricos. Cuando esta carta declara un ataque, antes del calculo de dano, reduce la DEF del objetivo en 500 puntos
+Nidoran Hembra	5DS1	Nidoran_Hembra	Veneno	Tierra	3	600	500	3	TCG	Incrementa la DEF de esta carta en 300 puntos por cada "Nidoran macho" en tu lado del campo.
+Nidorina	5DS1	Nidorina	Veneno	Tierra	5	1550	1600	3	TCG	Cuando esta carta es invocada de forma normal, invoca de forma especial 1 "Nidoran hembra" de tu mano.
+Nidoqueen	5DS1	Nidoqueen	Veneno	Tierra	6	1800	1900	3	TCG	Esta carta solo puede ser invocada por el efecto de "Piedra Lunar" y enviando al Cementerio 1 'Nidorina' en tu lado del campo. No puede ser destruida en batalla por Pokemon Electricos. Cuando esta carta ataca a 1 Pokemon del oponente, reduce la DEF del objetivo en 500 puntos
+Nidoran Macho	5DS1	Nidoran_Macho	Veneno	Tierra	3	650	600	3	TCG	Incrementa el ATK de esta carta en 300 puntos por cada "Nidoran hembra" en tu lado del campo.
+Nidorino	5DS1	Nidorino	Veneno	Tierra	5	1650	1600	3	TCG	Esta carta puede atacar 2 veces en un mismo turno
+Nidoking	5DS1	Nidoking	Veneno	Tierra	6	1900	2100	3	TCG	Esta carta solo puede ser invocada por el efecto de "Piedra Lunar"  y enviando al Cementerio 1 'Nidorino' en tu lado del campo. No puede ser destruida en batalla por Pokemon Electricos. Si esta carta ataca a 1 Pokemon en posicion de defensa, inflige dano de penetracion
+Clefairy	5DS1	Clefairy	Normal	Tierra	3	400	500	3	TCG	Cuando esta carta es invocada de forma normal con exito, anade 1 "Piedra Lunar" de tu mazo a tu mano. Mezcla el mazo.
+Clefable	5DS1	Clefable	Normal	Tierra	5	1000	1500	3	TCG	Esta carta solo puede ser invocada por el efecto de "Piedra Lunar"  y enviando al Cementerio 1 'Clefairy' en tu lado del campo. En cada una de tus Standby Phases, incrementa tus Life Points en 200 puntos
+Vulpix	5DS1	Vulpix	Fuego	Fuego	3	500	600	3	TCG	Esta carta no puede ser destruida en batalla por ataques de Pokemon Fuego.
+Ninetales	5DS1	Ninetales	Fuego	Fuego	5	1600	1550	3	TCG	Esta carta solo puede ser invocada por el efecto de "Piedra Fuego"  y enviando al Cementerio 1 'Vulpix' en tu lado del campo. Cuando es invocada con exito, selecciona 1 Pokemon del oponente: este pierde 300 de ATK.
+Jigglypuff	5DS1	Jigglypuff	Normal	Tierra	3	400	500	3	TCG	Cuando esta carta es invocada, busca en tu mazo 1 'Canto' y anadelo a tu mano. Mezcla el mazo.
+Wigglytuff	5DS1	Wigglytuff	Normal	Tierra	5	900	1600	3	TCG	Esta carta solo puede ser invocada por el efecto de "Piedra Lunar"  y enviando al Cementerio 1 'Jigglypuff' en tu lado del campo. Cuando es invocada con éxito, selecciona 1 Pokemon del oponente: reduce su ATK en 400 puntos. Una vez por turno, cuando esta carta es declarada como objetivo de un ataque, antes del calculo de dano, reduce a 0 el dano de batalla efectuado por el Pokemon atacante
+Zubat	5DS1	Zubat	Veneno	Viento	3	700	500	3	TCG	Esta carta no puede ser seleccionada por ataques de Pokemon Tierra. Cuando esta carta destruye 1 Pokemon, incrementa tus Life Points en un valor equivalente a la diferencia entre los puntos de ATK de ambas cartas
+Golbat	5DS1	Golbat	Veneno	Viento	5	1650	1400	3	TCG	Esta carta no puede ser seleccionada por ataques de Pokemon Tierra. Selecciona 1 Pokemon del oponente: durante los proximos 3 turnos solo podra declarar ataques contra Pokemon controlados por el oponente
+Oddish	5DS1	Oddish	Planta	Tierra	3	500	600	3	TCG	Cuando esta carta es invocada de forma normal con exito, invoca de forma especial, desde tu mano, 1 Pokemon Planta de nivel 4 o inferior.
+Gloom	5DS1	Gloom	Planta	Tierra	5	1400	1600	3	TCG	Cuando esta carta es invocada de forma normal con exito, anade 1 'Toxico' de tu mazo a tu mano. Mezcla el mazo.
+Vileplume	5DS1	Vileplume	Planta	Tierra	6	1950	1800	3	TCG	Esta carta solo puede ser invocada por el efecto de "Piedra Hoja"  y enviando al Cementerio 1 'Gloom' en tu lado del campo. Si la carta 'Dia Soleado' se encuentra activa en el campo, durante cada una de tus Draw Phases, roba 1 carta extra. Cuando esta carta destruye 1 Pokemon, incrementa tus Life Points en 500
+Paras	5DS1	Paras	Bicho	Tierra	3	550	700	3	TCG	Volteo: cuando esta carta es declarada como objetivo de un ataque, antes del cálculo de dano, la carta atacante no podra atacar, cambiar su posición de batalla o activar efectos por los siguientes 3 turnos de tu oponente.
+Parasect	5DS1	Parasect	Bicho	Tierra	5	1100	1700	3	TCG	Cuando esta carta es invocada con exito, envia al Cementerio todas las cartas mágicas/trampa continuas en la Zona de Cartas Mágicas/Trampa de tu oponente cuyos efectos impidan ataques o activación de efectos. En adición, anade 1 'Gigadrenado' de tu mazo a tu mano. Mezcla el mazo
+Venonat	5DS1	Venonat	Bicho	Tierra	3	600	500	3	TCG	Una vez por turno, durante tu Standby Phase, puedes voltear 1 carta boca abajo en la Zona de Pokemon o cartas Magicas/Trampa de tu oponente. Luego regresala a su posicion original
+Venomoth	5DS1	Venomoth	Bicho	Tierra	5	1700	1500	3	TCG	Una vez por turno, selecciona 1 Pokemon que tu oponente controle. Pierde 400 puntos de DEF
+Diglett	5DS1	Diglett	Tierra	Tierra	2	300	500	3	TCG	Esta carta no puede ser destruida como resultado de una batalla. Durante el calculo de dano, reduce a 0 el dano de batalla efectuado por Pokemon Electricos. Cuando es invocada con exito, anade 1 'Excavar' de tu mazo a tu mano. Mezcla el mazo.
+Dugtrio	5DS1	Dugtrio	Tierra	Tierra	5	1700	1400	3	TCG	Esta carta no puede ser destruida en batalla por Pokemon Electricos. Mientras esta carta este activa en el campo, ningun Pokemon del oponente puede regresar a la mano o cambiar su posicion de batalla
+Meowth	5DS1	Meowth	Normal	Tierra	3	600	400	3	TCG	Cuando esta carta es invocada con exito, roba 1 carta de la parte superior de tu mazo
+Persian	5DS1	Persian	Normal	Tierra	5	1600	1550	3	TCG	Cuando esta carta destruye 1 Pokemon, roba 2 cartas de la parte superior de tu mazo
+Psyduck	5DS1	Psyduck	Agua	Agua	4	600	400	3	TCG	Si la carta 'Danza Lluvia' se encuentra activa en el campo, puedes invocar esta carta de forma especial. Una vez por turno, descarta 1 carta de  tu mano. Aumenta el ATK y la defensa de esta carta en 400 puntos.
+Golduck	5DS1	Golduck	Agua	Agua	5	1700	1550	3	TCG	Si la carta 'Islas Espuma' se encuentra activa en el campo, esta carta no puede ser destruida por efectos de cartas magicas/trampa. 
+Mankey	5DS1	Mankey	Lucha	Tierra	4	1000	900	3	TCG	Cuando esta carta batalla contra 1 Pokemon con DEF mayor a sus puntos de ATK, duplica el ATK de esta carta hasta el final del turno.
+Primeape	5DS1	Primeape	Lucha	Tierra	5	1600	1500	3	TCG	Cuando esta carta es declarada como objetivo de ataque de 1 Pokemon del oponente, antes del calculo de dano, incrementa su ATK  en 600 puntos
+Growlithe	5DS1	Growlithe	Fuego	Fuego	4	1300	900	3	TCG	Cuando esta carta es invocada con exito, reduce el ATK de los Pokemon del oponente en 300 puntos
+Arcanine	5DS1	Arcanine	Fuego	Fuego	6	1800	1600	3	TCG	Esta carta solo puede ser invocada por el efecto de "Piedra Fuego"  y enviando al Cementerio 1 'Growlithe' en tu lado del campo. Si batalla contra 1 Pokemon de Fuego, esta carta no puede ser destruida en batalla y reduce a 0 cualquier dano. En adicion, duplica el ATK de esta carta hasta el final del turno
+Poliwag	5DS1	Poliwag	Agua	Agua	3	500	700	3	TCG	Esta carta no puede ser destruida en batalla por ataques de Pokemon Agua. 
+Poliwhirl	5DS1	Poliwhirl	Agua	Agua	5	1500	1300	3	TCG	Cuando esta carta es invocada con exito, anade 1 'Danza Lluvia' de tu mazo a tu mano. Mezcla el mazo.
+Poliwrath	5DS1	Poliwrath	Agua	Agua	6	1900	1700	3	TCG	Esta carta solo puede ser invocada por el efecto de "Piedra Agua"  y enviando al Cementerio 1 'Poliwhirl' en tu lado del campo. Una vez por turno, durante tu Standby Phase, paga la mitad de tus Life Points. Duplica el ATK de esta carta hasta el final del turno
+Abra	5DS1	Abra	Psiquico	Luz	2	0	500	3	TCG	Cuando esta carta es declarada como objetivo de ataque de 1 Pokemon, devuelvela a tu mano
+Kadabra	5DS1	Kadabra	Psiquico	Luz	5	1600	1000	3	TCG	Esta carta no puede ser seleccionada por efectos que impidan atacar
+Alakazam	5DS1	Alakazam	Psiquico	Luz	7	2500	1500	3	TCG	Cuando esta carta es invocada de forma normal con éxito, puedes anadir 1 'Psiquico' de tu mazo a tu mano. Mezcla el mazo. Mientras esta carta permanezca boca arriba en el campo, tu oponente no puede activar efectos que inflijan dano directo a tus Life Points
+Machop	5DS1	Machop	Lucha	Tierra	4	1200	1000	3	TCG	Cuando esta carta batalla contra 1 Pokemon Roca, duplica su ATK hasta el final del turno
+Machoke	5DS1	Machoke	Lucha	Tierra	5	1700	1800	3	TCG	una vez por turno, durante la fase de batalla de tu turno, aumenta el ATK de esta carta en 700 puntos
+Machamp	5DS1	Machamp	Lucha	Tierra	7	2000	1900	3	TCG	Cuando esta carta ataca a 1 Pokemon en posicion de defensa, reduce la DEF del objetivo en 500 puntos
+Bellsprout	5DS1	Bellsprout	Planta	Tierra	4	600	400	3	TCG	Si la carta 'Dia Soleado' se encuentra activa en el campo, durante tu Draw Phase roba 1 carta extra de la parte superior de tu mazo
+Weepinbell	5DS1	Weepinbell	Planta	Tierra	5	1200	900	3	TCG	Cuando esta carta es invocada de forma normal con exito, invoca de forma especial, desde tu mazo o mano, 1 Pokemon Planta
+Victreebell	5DS1	Victreebell	Planta	Tierra	6	1500	1600	3	TCG	Esta carta solo puede ser invocada por el efecto de "Piedra Hoja"  y enviando al Cementerio 1 'Weepinbell' en tu lado del campo. Cuando es invocada con exito, anade 1 'Toxico' de tu mazo a tu mano. Mezcla el mazo.
+Tentacool	5DS1	Tentacool	Veneno	Agua	3	700	1000	3	TCG	Cuando esta carta declara un ataque, antes del calculo de dano, reduce la DEF del objetivo en 300 puntos
+Tentacruel	5DS1	Tentacruel	Agua	Agua	5	1200	1600	3	TCG	Cuando esta carta es invocada con exito, selecciona 1 Pokemon del oponente: no podra atacar mientras esta carta se encuentre boca arriba en tu lado del campo
+Geodude	5DS1	Geodude	Roca	Tierra	3	600	1000	3	TCG	Esta carta no puede ser destruida en batalla por Pokemon Electricos. Cuando es declarada como objetivo de ataque de una carta del oponente, cambia esta carta a posicion de defensa
+Graveler	5DS1	Graveler	Roca	Tierra	5	900	1700	3	TCG	Esta carta no puede ser destruida en batalla por Pokemon Electricos. Durante la fase de batalla de cualquier jugador, cuando esta carta batalla contra un Pokemon de Viento o Fuego, duplica su ATK
+Golem	5DS1	Golem	Roca	Tierra	7	2100	2300	3	TCG	Esta carta no puede ser destruida en batalla por Pokemon Electricos. Cuando esta carta es invocada con exito, anade 1 'Terremoto' de tu mazo a tu mano. Mezcla el mazo
+Ponyta	5DS1	Ponyta	Fuego	Fuego	4	1200	1000	3	TCG	Esta carta no puede ser  destruida en batalla por Pokemon Fuego, y ademas reduce a 0 el dano efectuado
+Rapidash	5DS1	Rapidash	Fuego	Fuego	6	1600	1400	3	TCG	Cuando esta carta es invocada con exito, reduce el ATK de los Pokemon del oponente en 500 puntos
+Slowpoke	5DS1	Slowpoke	Agua	Agua	3	400	600	3	TCG	Volteo: selecciona 1 Pokemon del oponente. Por 3 turnos, no podra atacar, activar efectos o cambiar su posicion de batalla
+Slowbro	5DS1	Slowbro	Agua	Agua	5	1100	1500	3	TCG	Una vez por turno, durante tu Standby Phase, paga 500 Life Points. Aumenta el ATK y la DEF de esta carta en 250 puntos
+Magnemite	5DS1	Magnemite	Electrico	Luz	3	500	700	3	TCG	Cuando esta carta es invocada con exito, invoca 1 'Magnemite' desde tu mano.
+Magneton	5DS1	Magneton	Electrico	Luz	6	1600	1400	3	TCG	Esta carta solo puede ser invocada de forma especial enviando 3 'Magnemite' de tu Campo al Cementerio. Una vez por turno, durante tu Main Phase, selecciona 1 Pokemon del oponente: hasta el final del turno, el Pokemon no podra activar efectos que impidan atacar ni ser seleccionado por cartas que cancelen ataques
+Farfetch'd	5DS1	Farfetchd	Volador	Viento	3	700	650	3	TCG	Cuando esta carta es invocada de forma normal con exito, anade 1 'Puerro' de tu mazo a tu mano. Mezcla el mazo
+Doduo	5DS1	Doduo	Volador	Viento	3	800	600	3	TCG	Este Pokemon de dos cabezas es el resultado de una mutacion. Cuando corre, puede alcanzar casi 100 km por hora
+Dodrio	5DS1	Dodrio	Volador	Viento	5	1700	1500	3	TCG	Cuando esta carta ataca a 1 Pokemon en posición de defensa, inflige dano de penetracion
+Seel	5DS1	Seel	Agua	Agua	4	500	600	3	TCG	Si la carta 'Danza Lluvia' se encuentra activa en el campo, esta carta no puede ser seleccionada por efectos que impidan atacar o reduzcan ATK y DEF.
+Dewgong	5DS1	Dewgong	Hielo	Agua	5	1500	1200	3	TCG	Durante cada una de las Standby Phase de tu turno, incrementa tus Life Points en 300 puntos
+Grimer	5DS1	Grimer	Veneno	Tierra	3	700	800	3	TCG	Volteo: cuando esta carta es declarada como objetivo de ataque, el Pokemon atacante pierde 300 puntos de ATK
+Muk	5DS1	Muk	Veneno	Tierra	6	1800	1850	3	TCG	Cuando esta carta es invocada con exito, reduce la DEF de todos los Pokemon del oponente en 500 puntos
+Shellder	5DS1	Shellder	Agua	Agua	3	500	1100	3	TCG	Durante la End Phase de tu turno, puedes cambiar esta carta a posicion de defensa
+Cloyster	5DS1	Cloyster	Hielo	Agua	5	1600	2000	3	TCG	Esta carta solo puede ser invocada por el efecto de "Piedra Agua"  y enviando al Cementerio 1 'Shellder' en tu lado del campo. Cuando es invocada con exito, anade 1 'Puas' de tu mazo a tu mano. Mezcla el mazo
+Gastly	5DS1	Gastly	Fantasma	Oscuridad	3	400	500	3	TCG	Esta carta no puede ser seleccionada por ataques de Pokemon Tierra, Lucha y normal. Una vez por turno, durante tu Standby Phase, inflige dano directo a los Life Points del oponente en un valor equivalente al nivel de esta carta x100
+Haunter	5DS1	Haunter	Fantasma	Oscuridad	5	1600	1200	3	TCG	Esta carta no puede ser seleccionada por ataques de Pokemon Tierra, Lucha y normal. Cuando esta carta declara un ataque, antes del calculo de dano, ignora los efectos que impiden atacar. Una vez por turno, durante tu Standby Phase, paga la mitad de tus Life Points. Reduce el ATK de 1 Pokemon en un valor equivalente a los Life Points pagados por este efecto
+Gengar	5DS1	Gengar	Fantasma	Oscuridad	7	2000	1600	3	TCG	Esta carta no puede ser seleccionada por ataques de Pokemon Tierra, Lucha y Normal. Cuando esta carta ataca 1 Pokemon, reduce la DEF del objetivo en 500 puntos. Mientras esta carta permanezca boca arriba, tu oponente no puede activar efectos de cartas de Pokemon.
+Onix	5DS1	Onix	Roca	Tierra	4	1200	1700	3	TCG	Esta carta no puede ser destruida en batalla por Pokemon Electricos. Cuando es invocada de forma normal, reduce la DEF de todos los Pokemon del oponente en 500 puntos
+Drowzee	5DS1	Drowzee	Psiquico	Luz	3	600	400	3	TCG	Esta carta no puede ser seleccionada por efectos que impidan atacar. Cuando destruye a 1 Pokemon afectado por 'Hipnosis', incrementa tus Life Points en un valor equivalente a la diferencia de ATK de ambas cartas
+Hypno	5DS1	Hypno	Psiquico	Luz	5	1500	1600	3	TCG	Selecciona 1 Pokemon que el oponente controla: por 1 turno no podra atacar, cambiar su posicion de batalla ni activar efectos
+Krabby	5DS1	Krabby	Agua	Agua	3	500	900	3	TCG	Es facil encontrarlo cerca del mar. Las largas pinzas que tiene vuelven a crecer si se las quitan de su sitio
+Kingler	5DS1	Kingler	Agua	Agua	5	1700	1900	3	TCG	La pinza tan grande que tiene posee una fuerza de 10,000 caballos de potencia. Pero, por su gran tamano, cuesta moverla
+Voltorb	5DS1	Voltorb	Electrico	Luz	3	500	550	3	TCG	Volteo: cuando esta carta es destruida como resultado de una batalla, destruye al Pokemon atacante
+Electrode	5DS1	Electrode	Electrico	Luz	5	1100	1300	3	TCG	Selecciona y destruye 1 Pokemon del oponente. Envia esta carta al Cementerio
+Exeggcute	5DS1	Exeggcute	Planta	Tierra	3	400	600	3	TCG	Si la carta 'Dia Soleado' se encuentra activa en el campo, roba 1 carta extra en tu Draw Phase
+Exeggutor	5DS1	Exeggutor	Planta	Tierra	6	1700	1500	3	TCG	Esta carta solo puede ser invocada por el efecto de "Piedra Hoja"  y enviando al Cementerio 1 'Exeggcute' en tu lado del campo. Cuando es invocada con exito, selecciona 1 Pokemon que el oponente controla: no podra atacar, activar efectos o cambiar su posicion de batalla por los proximos 5 turnos
+Cubone	5DS1	Cubone	Tierra	Tierra	4	600	500	3	TCG	Esta carta no puede ser destruida en batalla por Pokemon Electricos. Incrementa el ATK de esta carta en 300 puntos por cada 'Marowak' en tu Campo o Cementerio
+Marowak	5DS1	Marowak	Tierra	Tierra	5	1600	1500	3	TCG	Esta carta no puede ser destruida en batalla por Pokemon Electricos. Esta carta puede atacar 2 veces en un mismo turno
+Hitmonlee	5DS1	Hitmonlee	Lucha	Tierra	4	1500	1700	3	TCG	Una vez por turno, durante tu Main Phase, busca en tu mazo 1 carta magica cuyo nombre contenga 'Patada'. Mezcla el mazo
+Hitmonchan	5DS1	Hitmonchan	Lucha	Tierra	4	1600	1500	3	TCG	Una vez por turno, durante tu Main Phase, busca en tu mazo 1 carta magica cuyo nombre contenga 'Puno'. Mezcla el mazo
+Lickitung	5DS1	Lickitung	Normal	Tierra	4	900	1400	3	TCG	La lengua es tan larga que duplica su altura. Es util porque puede moverla para agarrar comida y atacar
+Koffing	5DS1	Koffing	Veneno	Tierra	3	500	900	3	TCG	No puede ser seleccionado por ataques de Pokemon Tierra. Cuando esta carta es invocada, anade 1 'Pantalla Humo' de tu mazo a tu mano. Mezcla el mazo
+Weezing	5DS1	Weezing	Veneno	Tierra	5	800	1900	3	TCG	No puede ser seleccionado por ataques de Pokemon Tierra. En cada una de tus Standby Phases, inflige 400 puntos de dano a los Life Points del oponente
+Rhyhorn	5DS1	Rhyhorn	Roca	Tierra	4	1500	1700	3	TCG	Esta carta no puede ser destruida en batalla por Pokemon Electricos. Cuando batalla contra 1 Pokemon Fuego, reduce el ATK del objetivo a la mitad
+Rhydon	5DS1	Rhydon	Roca	Tierra	6	1900	2100	3	TCG	Esta carta no puede ser destruida en batalla por Pokemon Electricos. Cuando ataca a 1 Pokemon en posicion de defensa, inflige dano de penetracion
+Chansey	5DS1	Chansey	Normal	Tierra	4	400	2000	2	TCG	Durante cada una de las Standby Phases de tu turno, incrementa tus Life Points en 1000 puntos mientras esta carta permanezca boca arriba en tu lado del Campo
+Tangela	5DS1	Tangela	Planta	Tierra	4	1100	1400	3	TCG	Las cintas de tipo alga que tiene a modo de tentaculos le dan su identidad. Es una masa que todo lo enreda
+Kangaskhan	5DS1	Kangaskhan	Normal	Tierra	4	1700	1900	3	TCG	La hembra cria a sus pequenos en la bolsa que tiene en la panza. Es muy buena usando Puno Cometa
+Horsea	5DS1	Horsea	Agua	Agua	3	300	500	3	TCG	Si la carta 'islas Espuma' se encuentra activa en el campo, puedes invocar esta carta de forma especial. Esta carta no puede ser destruida por efectos de Pokemon
+Seadra	5DS1	Seadra	Agua	Agua	5	1600	1500	3	TCG	Cuando esta carta es declarada como objetivo de un ataque, antes del calculo de dano el oponente pierde 400 Life Points 
+Goldeen	5DS1	Goldeen	Agua	Agua	3	400	600	3	TCG	Cuando esta carta es invocada de forma normal con exito, los Pokemon Fuego pierden 300 puntos de ATK
+Seaking	5DS1	Seaking	Agua	Agua	5	1500	1400	3	TCG	Esta carta no puede ser seleccionada por efectos que reduzcan ATK. Cuando ataca a un Pokemon en posicion de defensa, duplica su ATK hasta el final del turno
+Staryu	5DS1	Staryu	Agua	Agua	3	700	600	3	TCG	Cuando esta carta es invocada de forma normal con exito, roba 2 cartas de la parte superior de tu mazo
+Starmie	5DS1	Starmie	Agua	Agua	5	1500	900	3	TCG	Esta carta solo puede ser invocada por el efecto de "Piedra Agua"  y enviando al Cementerio 1 'Staryu' en tu lado del campo. Cuando es invocada con exito, anade 1 'Giro Rapido' de tu mazo a tu mano. Mezcla el mazo. Durante cada una de las Standby Phases de tu turno, mientras esta carta permanezca boca arriba en tu lado del campo, incrementa tus Life Points en un valor equivalente a la mitad de tus Life Points actuales
+Mr. Mime	5DS1	MrMime	Psiquico	Luz	4	1100	1500	3	TCG	Mientras esta carta permanezca boca arriba en tu lado del campo, incrementa la DEF de todos los Pokemon que controles en 500 puntos
+Scyther	5DS1	Scyther	Bicho	Viento	4	1500	1400	3	TCG	Durante la Battle Phase de tu turno, aumenta el ATK de esta carta en 500 puntos
+Jynx	5DS1	Jynx	Hielo	Luz	4	1200	1000	3	TCG	Selecciona 1 Pokemon que el oponente controla. Durante el proximo turno, el Pokemon seleccionado solo podra atacar a objetivos controlados por el oponente
+Electabuzz	5DS1	Electabuzz	Electrico	Luz	4	1550	1200	3	TCG	Cuando esta carta es declarada como objetivo de un ataque, despues del calculo de dano, el Pokemon atacante no podra atacar por los siguientes 3 turnos
+Magmar	5DS1	Magmar	Fuego	Fuego	4	1400	1300	3	TCG	Cuando esta carta es declarada como objetivo de un ataque, despues del calculo de dano, el Pokemon atacante pierde 500 puntos de ATK
+Pinsir	5DS1	Pinsir	Bicho	Tierra	4	1500	1600	3	TCG	Esta carta no puede ser seleccionada por efectos que reduzcan ATK. Cuando ataca a 1 Pokemon, reduce su DEF en 500 puntos
+Tauros	5DS1	Tauros	Normal	Tierra	4	1700	1800	3	TCG	Cuando esta carta es invocada de forma normal con exito, reduce el ATK de todos los Pokemon del oponente en 500 puntos
+Magikarp	5DS1	Magikarp	Agua	Agua	2	100	300	3	TCG	No es precisamente rapido ni fuerte. Es el Pokemon mas debilucho y simplon de todos los que hay
+Gyarados	5DS1	Gyarados	Agua	Viento	7	2100	1700	3	TCG	Esta carta no puede ser seleccionada por ataques de Pokemon Tierra. Cuando es invocada, reduce el ATK de 1 Pokemon  del oponente en 500 puntos
+Lapras	5DS1	Lapras	Hielo	Agua	4	1500	1200	3	TCG	Esta carta no puede ser destruida en batalla por Pokemon de Agua. Cuando esta carta es invocada con exito, anade 1 'Rayo Hielo' de tu mazo a tu mano. Mezcla el mazo
+Ditto	5DS1	Ditto	Normal	Tierra	2	????	????	3	TCG	Cuando esta carta es invocada de forma normal con exito, selecciona 1 carta de Pokemon del oponente: los puntos de ATK/DEF, Atributo, Tipo y Efecto de esta carta se convierten en el ATK/DEF, Atributo, Tipo y Efecto originales de la carta seleccionada. 
+Eevee	5DS1	Eevee	Normal	Tierra	3	500	400	3	TCG	Cuando esta carta es declarada como objetivo de ataque de 1 Pokemon que el oponente controla, regresala a tu mano. Selecciona 1 Pokemon que controles: este gana 200 puntos de ATK hasta el final del turno en el que es activado este efecto
+Vaporeon	5DS1	Vaporeon	Agua	Agua	5	1600	1500	3	TCG	Esta carta solo puede ser invocada por el efecto de "Piedra Agua" y enviando al Cementerio 1 'Eevee' en tu lado del campo. No puede ser destruida por Pokemon de AGUA, y ademas reduce el dano de batalla a 0. En adicion, cada vez que esta carta es atacada por Pokemon de Agua, incrementa tus Life Points en 300 puntos 
+Jolteon	5DS1	Jolteon	Electrico	Luz	5	1650	1400	3	TCG	Esta carta solo puede ser invocada por el efecto de "Piedra Trueno"  y enviando al Cementerio 1 'Eevee' en tu lado del campo. No puede ser destruida por Pokemon Electricos, y ademas reduce el dano de batalla a 0. En adicion, cada vez que esta carta es atacada por Pokemon Electricos, incrementa tus Life Points en 300 puntos 
+Flareon	5DS1	Flareon	Fuego	Fuego	5	1500	1600	3	TCG	Esta carta solo puede ser invocada por el efecto de "Piedra Fuego" y enviando al Cementerio 1 'Eevee' en tu lado del campo. No puede ser destruida por Pokemon Fuego, y ademas reduce el dano de batalla a 0. En adicion, cada vez que esta carta es atacada por Pokemon Fuego, incrementa el ATK de esta carta en 300 puntos 
+Porygon	5DS1	Porygon	Normal	Tierra	3	600	900	3	TCG	Una vez por turno, durante tu Main Phase, selecciona 1 carta de Pokemon del oponente. El atributo de esta carta se convierte en el atributo de la carta seleccionada. Cuando esta carta es seleccionada por efectos de cartas del oponente, designa un nuevo objetivo en el campo del oponente para aplicar dichos efectos
+Omanyte	5DS1	Omanyte	Agua	Agua	2	400	700	1	TCG	Esta carta solo puede ser invocada por el efecto de "Fosil Helix". Si es declarada como objetivo de un ataque, cambiala a posicion de defensa
+Omastar	5DS1	Omastar	Agua	Agua	5	1200	1800	1	TCG	Cuando esta carta es invocada con exito, anade 1 'Poder Pasado' de tu mazo a tu mano. Mezcla el mazo. Cuando batalla contra 1 Pokemon Fuego, reduce el dano a la mitad
+Kabuto	5DS1	Kabuto	Agua	Agua	2	500	900	1	TCG	Esta carta solo puede ser invocada por el efecto de "Fósil Domo". No puede ser destruida en batalla por Pokemon con ATK superior a su DEF
+Kabutops	5DS1	Kabutops	Agua	Agua	5	1600	1500	1	TCG	Esta carta no puede ser destruida en batalla por Pokemon con ATK superior a su DEF. Cuando destruye 1 Pokemon, incrementa tus Life Points en 500 puntos 
+Aerodactyl	5DS1	Aerodactyl	Roca	Viento	5	1700	1500	1	TCG	Esta carta solo puede ser invocada por el efecto de "Ambar Viejo". No puede ser seleccionado por ataques de Pokemon Tierra. Cuando es invocada con exito, selecciona 1 Pokemon en el campo del oponente y regresalo a la mano de su propietario
+Snorlax	5DS1	Snorlax	Normal	Tierra	4	1800	2200	2	TCG	Niega los efectos de 'Hipnosis' y 'Canto' aplicados en esta carta
+Articuno	5DS1	Articuno	Hielo	Viento	7	2000	1700	1	TCG	Esta carta no puede ser invocada de forma normal. No puede ser seleccionada por ataques de Pokemon Tierra. Si la carta 'Granizo' se encuentra activa en el campo, esta carta no puede ser seleccionada como objetivo de ataque de Pokemon del oponente
+Zapdos	5DS1	Zapdos	Electrico	Viento	7	2400	1600	1	TCG	Esta carta no puede ser invocada de forma normal. No puede ser seleccionada por ataques de Pokemon Tierra. Mientras esta carta se encuentre boca arriba en el campo, los Pokemon Electricos que el oponente controla solo pueden seleccionar esta carta como objetivo de ataque
+Moltres	5DS1	Moltres	Fuego	Viento	7	2200	1500	1	TCG	Esta carta no puede ser invocada de forma normal. No puede ser seleccionada por ataques de Pokemon Tierra. Cuando esta carta es declarada como objetivo de un ataque, reduce el ATK del Pokemon atacante en 800 puntos
+Dratini	5DS1	Dratini	Dragon	Agua	2	200	500	3	TCG	Cuando esta carta es seleccionada por cartas magicas/trampa que impidan atacar, cambiar posicion de batalla o activar efectos, duplica su DEF
+Dragonair	5DS1	Dragonair	Dragon	Agua	5	1600	1400	3	TCG	Mientras esta carta se encuentre boca arriba en el campo, los efectos que reducen ATK y DEF o impiden atacar son negados
+Dragonite	5DS1	Dragonite	Dragon	Viento	7	2500	2200	3	TCG	Esta carta no puede ser seleccionada por ataques de Pokemon Tierra. No puede ser seleccionada por efectos que impidan atacar. Cuando es invocada con exito, anade 1 'Furia Dragon' de tu mazo a tu mano. Mezcla el mazo
+Mewtwo	5DS1	Mewtwo	Psíquico	Oscuridad	8	2800	1600	1	TCG	Esta carta no puede ser invocada de forma normal. No puede ser destruida como resultado de una batalla. En cada una de tus Standby Phases, incrementa tus Life Points en 1000 puntos
+Mew 	5DS1	Mew	Psíquico	Luz	8	2300	1700	1	TCG	Esta carta no puede ser invocada de forma normal. No puede ser destruida como resultado de una batalla. Una vez por turno, durante tu Main Phase, selecciona 1 Pokemon que el oponente controla: copia su Atributo. Cualquier efecto de Pokemon aplicado en esta carta que reduzca ATK/DEF e impida atacar, es aplicado en la carta de Pokemon que lo activo.
+Pokéball	5DS1	Pokeball	Normal	Spell				3	TCG	Invoca de forma especial, desde tu mano, 1 Pokémon de nivel 4 o inferior
+Superball	5DS1	Superball	Normal	Spell				3	TCG	Invoca de forma especial, desde tu mano, 1 Pokémon de nivel 5 o inferior
+Ultraball	5DS1	Ultraball	Normal	Spell				3	TCG	Invoca de forma especial, desde tu mano, 1 Pokémon de nivel 7 o inferior
+Masterball	5DS1	Masterball	Normal	Spell				1	TCG	Invoca de forma especial, desde tu mano, 1 Pokémon sin importar su nivel
+Revivir	5DS1	Revivir	Normal	Spell				3	TCG	Selecciona 1 Pokemon en tu Cementerio: invocalo de forma especial en tu lado del Campo
+Poción	5DS1	Pocion	Normal	Spell				3	TCG	Incrementa tus Life Points en 200 puntos
+Superpoción	5DS1	Superpocion	Normal	Spell				3	TCG	Incrementa tus Life Points en 400 puntos
+Hiperpoción	5DS1	Hiperpocion	Normal	Spell				3	TCG	Incrementa tus Life Points en 500 puntos
+Puas	5DS1	Puas	Continuous	Trap				3	TCG	Mientras esta carta se encuentre activa en el campo, cuando tu oponente invoca un Pokemon, recibe 200 puntos de dano a sus Life Points
+Canto Mortal	5DS1	Canto_Mortal	Normal	Trap				2	TCG	Debes controlar a 'Lapras' para activar este efecto. Transcurridos 3 turnos desde la activacion de esta carta, todos los Pokemon en el campo son enviados al Cementerio
+Frio Polar	5DS1	Frio_polar	Normal	Trap				2	TCG	Debes controlar a 'Lapras' para activar este efecto. Selecciona 1 Pokemon que el oponente controle y lanza 1 moneda a cara o cruz: si el resultado es 'cara', destruye al Pokemon seleccionado 
+Hipnosis	5DS1	Hipnosis	Continuous	Trap				3	TCG	Debes controlar 1 Pokemon Fantasma. Selecciona 1 Pokemon boca arriba que controle tu oponente. No podrá atacar, cambiar su posicion de batalla o activar efectos. Cuando el Pokemon es destruido, envia esta carta al Cementerio
+Comesuenos	5DS1	Comesuenos	Normal	Trap				3	TCG	Selecciona 1 Pokemon afectado por 'Hipnosis'. Tu oponente pierde 500 Life Points. En adicion, incrementa tus Life Points en 500
+Toxico	5DS1	Toxico	Continuous	Trap				3	TCG	Debes controlar 1 Pokemon Veneno. En cada una de tus Standby Phases, tu oponente pierde 300 Life Points.
+Onda Trueno	5DS1	Onda_Trueno	Continuous	Trap				3	TCG	Debes controlar 1 Pokemon Electrico. Selecciona 1 Pokemon boca arriba que controle tu oponente. No podrá atacar, cambiar su posicion de batalla o activar efectos. Cuando el Pokemon es destruido, envia esta carta al Cementerio
+Fuego Fatuo	5DS1	Fuego_Fatuo	Continuous	Trap				3	TCG	Debes controlar 1 Pokemon Fantasma. Selecciona 1 Pokemon boca arriba que controle tu oponente. Éste pierde 400 puntos de ATK durante cada una de las Standby Phases de tu oponente.
+Canto 	5DS1	Canto	Continuous	Trap				3	TCG	Debes controlar a 'Jigglypuff' o 'Wigglytuff' para activar esta carta. Selecciona 1 Pokemon boca arriba que controle tu oponente. No podrá atacar, cambiar su posicion de batalla o activar efectos. Cuando el Pokemon es destruido, envia esta carta al Cementerio
+Rayo Hielo	5DS1	Rayo_Hielo	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon Hielo. Cuando batalla contra 1 Pokemon Dragon, volador o tierra, duplica su ATK
+Llamarada	5DS1	Llamarada	Normal	Spell				3	TCG	Incrementa el ATK de un Pokemon FUEGO en 1000 puntos hasta el final del turno en el que es activada esta carta
+Hidrobomba	5DS1	Hidrobomba	Normal	Spell				3	TCG	Incrementa el ATK de un Pokemon AGUA en 1000 puntos hasta el final del turno en el que es activada esta carta
+Terremoto	5DS1	Terremoto	Normal	Spell				3	TCG	Debes controlar 1 Pokemon Tierra para activar esta carta. Destruye todas las cartas de Pokemon en el campo. Los Pokemon de VIENTO no pueden ser seleccionados por este efecto
+Hiperrayo	5DS1	Hiperrayo	Normal	Spell				3	TCG	Debes controlar a 'Dragonite' para activar esta carta: incrementa su ATK en 1000 puntos hasta el final del turno. La carta seleccionada no podra declarar ataques durante tu proximo turno.
+Danza Lluvia	5DS1	Danza_Lluvia	Continuous	Spell				3	TCG	Mientras esta carta permanezca activa en el campo, incrementa el ATK y DEF de los Pokemon AGUA en 300 puntos. Reduce el ATK y DEF de los Pokemon FUEGO en 300 puntos
+Dia Soleado	5DS1	Dia_Soleado	Continuous	Spell				3	TCG	Mientras esta carta permanezca activa en el campo, incrementa el ATK y DEF de los Pokemon FUEGO en 300 puntos
+Tormenta de Arena	5DS1	Tormenta_Arena	Continuous	Spell				3	TCG	Mientras esta carta se encuentre activa en el campo, los Pokemon (excepto los de tipo volador, tierra y roca) pierden 200 puntos de DEF.
+Granizo	5DS1	Granizo	Continuous	Spell				3	TCG	Mientras esta carta se encuentre activa en el campo, todos los Pokemon (excepto los de atributo AGUA) pierden 200 puntos de DEF.
+Avalancha	5DS1	Avalancha	Normal	Spell				3	TCG	Debes controlar 1 Pokemon Roca para activar esta carta. Selecciona y destruye 1 Pokemon de atributo VIENTO o FUEGO en el campo del oponente 
+Poder Pasado	5DS1	Poder_Pasado	Equip	Spell				3	TCG	Equipa esta carta unicamente a Omastar, Kabutops y Aerodactyl. Cuando atacan a un Pokemon FUEGO, duplica el ATK del Pokemon equipado con esta carta.
+Proteccion	5DS1	Proteccion	Quick-play	Spell				3	TCG	Una vez por turno, cuando un Pokemon del oponente declara un ataque contra un Pokémon que controles, niegalo
+Giro Rapido	5DS1	Giro_Rapido	Quick-play	Spell				3	TCG	Debes controlar a 'Staryu' o 'Starmie' para activar esta carta. Selecciona y destruye 1 carta de 'Puas' en el campo del oponente
+Mal de Ojo	5DS1	Mal_de_Ojo	Continuous	Trap				3	TCG	Debes controlar 1 Pokemon Fantasma para activar esta carta. Selecciona 1 carta de Pokemon que tu oponente controle: no podra abandonar el campo mientras esta carta permanezca activa
+Mismo Destino	5DS1	Mismo_Destino	Normal	Trap				3	TCG	Puedes activar esta carta cuando un Pokemon de tu oponente destruye en batalla 1 Pokemon que controles: ambos Pokemon son enviados al Cementerio
+Gigadrenado	5DS1	Gigadrenado	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon Planta. Cuando el Pokemon equipado batalla contra un Pokemon Agua, Roca o Tierra, duplica su ATK. Si destruye 1 Pokemon, incrementa tus Life Points en un valor equivalente al dano de batalla efectuado
+Excavar	5DS1	Excavar	Quick-play	Spell				3	TCG	Activa esta carta cuando un Pokemon Tierra es declarado como objetivo de un ataque: no podra ser destruido en batalla hasta el final del turno, y ademas reduce el dano de batalla a 0
+Piedra Lunar	5DS1	Piedra_Lunar	Normal	Spell				3	TCG	Invoca de forma especial, desde tu mano, 1 Pokemon de nivel 5 o mayor enviando al Cementerio 1 Pokemon indicado en el efecto de la carta a invocar.
+Piedra Fuego	5DS1	Piedra_Fuego	Normal	Spell				3	TCG	Invoca de forma especial, desde tu mano, 1 Pokemon Fuego de nivel 5 o mayor enviando al Cementerio 1 Pokemon indicado en el efecto de la carta a invocar.
+Piedra Hoja	5DS1	Piedra_Hoja	Normal	Spell				3	TCG	Invoca de forma especial, desde tu mano, 1 Pokémon Planta de nivel 5 o mayor enviando al Cementerio 1 Pokemon indicado en el efecto de la carta a invocar.
+Piedra Trueno	5DS1	Piedra_Trueno	Normal	Spell				3	TCG	Invoca de forma especial, desde tu mano, 1 Pokémon Electrico de nivel 5 o mayor enviando al Cementerio 1 Pokemon indicado en el efecto de la carta a invocar.
+Piedra Agua	5DS1	Piedra_Agua	Normal	Spell				3	TCG	Invoca de forma especial, desde tu mano, 1 Pokemon Agua de nivel 5 o mayor enviando al Cementerio 1 Pokemon indicado en el efecto de la carta a invocar.
+Fosil Helix	5DS1	Fosil_Helix	Normal	Spell				1	TCG	Invoca de forma especial, desde tu mano, 1 'Omanyte'. 
+Fosil Domo	5DS1	Fosil_Domo	Normal	Spell				1	TCG	Invoca de forma especial, desde tu mano, 1 'Kabuto'. 
+Ambar Viejo	5DS1	Ambar_Viejo	Normal	Spell				1	TCG	Invoca de forma especial, desde tu mano, 1 'Aerodactyl'. 
+Caramelo Raro	5DS1	Caramelo_Raro	Normal	Spell				3	TCG	Selecciona 1 Pokemon que controles. Durante el turno en el que es activada esta carta, el Pokemon puede ser usado como 2 sacrificios para invocar 1 Pokemon de nivel 7 o mayor de su misma linea evolutiva
+Rayo	5DS1	Rayo	Normal	Spell				2	TCG	Debes controlar 1 Pokemon Electrico. Selecciona y destruye todos los Pokemon de AGUA o VIENTO que tu oponente controle
+Psiquico	5DS1	Psiquico	Normal	Spell				3	TCG	Selecciona 1 Pokemon Psiquico que controles. Incrementa su ATK en 900 puntos hasta el final del turno
+Reflejo	5DS1	Reflejo	Continuous	Spell				3	TCG	Mientras esta carta se encuentre activa en el campo, duplica la DEF de todos los Pokemon que controles
+Puno Fuego	5DS1	Puno_Fuego	Equip	Spell				3	TCG	Equipa esta carta a 'Hitmonchan'. Cuando batalla contra 1 Pokemon Planta, Acero, Hielo o Bicho, duplica su ATK hasta el final de la Battle Phase
+Puno Trueno	5DS1	Puno_Trueno	Equip	Spell				3	TCG	Equipa esta carta a 'Hitmonchan'. Cuando batalla contra 1 Pokemon de AGUA o VIENTO, duplica su ATK hasta el final de la Battle Phase
+Puno Hielo	5DS1	Puno_Hielo	Equip	Spell				3	TCG	Equipa esta carta a 'Hitmonchan'. Cuando batalla contra 1 Pokemon Planta, Dragon, Tierra o Volador, duplica su ATK hasta el final de la Battle Phase
+Bola Sombra	5DS1	Bola_Sombra	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon Fantasma. Incrementa su ATK en 800 puntos. Cuando ataca a 1 Pokemon, reduce la DEF del objetivo en 300 puntos
+Patada Salto Alta	5DS1	Patada_Salto_Alta	Equip	Spell				3	TCG	Equipa esta carta a 'Hitmonlee'. Lanza 1 moneda a cara o cruz. Si el resultado es 'cara', Incrementa su ATK en 1000 puntos. Si es 'cruz', recibes 1000 puntos de daño a tus Life Points
+Rayo Solar	5DS1	Rayo_Solar	Normal	Spell				3	TCG	La carta 'Dia Soleado' debe estar activa en el campo. Selecciona 1 Pokemon Planta que controles, incrementa su ATK en 1000 puntos. Solo puedes activar 1 'Rayo Solar' por turno
+Furia Dragon	5DS1	Furia_Dragon	Quick-play	Spell				3	TCG	Selecciona 1 Pokemon Dragon que controles: hasta el final del turno, incrementa su ATK en 600 puntos
+Supercana	5DS1	Supercana	Normal	Spell				3	TCG	Busca en tu mazo 1 Pokemon de AGUA y anadelo a tu mano. Mezcla el mazo
+Buscaobjetos	5DS1	Buscaobjetos	Normal	Spell				3	TCG	Busca en tu mazo 1 carta Magica de Equipo y anadela a tu mano. Mezcla el mazo
+Ocaso Ball	5DS1	Ocaso_Ball	Normal	Spell				3	TCG	Invoca de forma especial, desde tu mano, 1 Pokemon de OSCURIDAD de nivel 4 o inferior. Si hay 1 carta magica de campo cuyo nombre incluye 'Cueva', puedes invocar 1 Pokemon de nivel 5 o 6
+Nido Ball	5DS1	Nido_Ball	Normal	Spell				3	TCG	Invoca de forma especial, desde tu mazo, 1 Pokemon de nivel 2 o inferior. 
+Acopio Ball	5DS1	Acopio_Ball	Normal	Spell				3	TCG	Invoca de forma especial, desde tu mazo, 1 Pokemon con el mismo nombre que un Pokemon boca arriba que controles
+Proteina	5DS1	Proteina	Normal	Spell				3	TCG	Incrementa el ATK de un Pokemon que controles en 600 puntos hasta que abandone el campo 
+Hierro	5DS1	Hierro	Normal	Spell				3	TCG	Incrementa la DEF de un Pokemon que controles en 600 puntos hasta que abandone el campo 
+Pokeflauta	5DS1	Pokeflauta	Normal	Spell				3	TCG	Envia al Cementerio 1 'Hipnosis' o 'Canto' boca arriba en el campo
+Cuerda Huida	5DS1	Cuerda_Huida	Quick-play	Spell				3	TCG	Selecciona 1 Pokemon boca arriba que controles y devuelvelo a tu mano
+Cinta Aguante	5DS1	Cinta_Aguante	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon que controles. Una vez por turno, si el Pokemon fuera a ser destruido como resultado de una batalla, reduce el dano de batalla a 0
+Mapa	5DS1	Mapa	Normal	Spell				1	TCG	Anade 1 carta magica de campo de tu mazo a tu mano. Mezcla el mazo
+Scope Silph	5DS1	Scope_Silph	Normal	Spell				1	TCG	La carta 'Torre Pokemon' debe estar activa en el campo. Mira las 3 primeras cartas de tu mazo. Si hay 1 Pokemon Fantasma, anadelo a tu mano
+Bosque Verde	5DS1	Bosque_Verde	Field	Spell				3	TCG	Todos los Pokemon Bicho ganan 200 puntos de ATK y DEF.
+Mt. Moon	5DS1	Mt_Moon	Field	Spell				3	TCG	Todos los Pokemon Roca ganan 200 puntos de ATK y DEF.
+Mt. Ascuas	5DS1	Mt_Ascuas	Field	Spell				3	TCG	Todos los Pokemon de FUEGO ganan 200 puntos de ATK y DEF.
+Cueva Glaciada	5DS1	Cueva_Glaciada	Field	Spell				3	TCG	Todos los Pokemon Hielo y Agua ganan 200 puntos de ATK y DEF, y ademas los Pokemon Fuego, Tierra y Roca pierden 200 puntos de ATK y DEF
+Cueva Perdida	5DS1	Cueva_Perdida	Field	Spell				3	TCG	Todos los Pokemon Fantasma ganan 400 puntos de ATK y DEF.
+Islas Espuma	5DS1	Islas_Espuma	Field	Spell				3	TCG	Todos los Pokemon Agua ganan 300 puntos de ATK y DEF, y ademas los Pokemon Fuego, Tierra y Roca pierden 300 puntos de ATK y DEF
+Central Energia	5DS1	Central_Energia	Field	Spell				3	TCG	Todos los Pokemon Electricos ganan 200 puntos de ATK y DEF.
+Calle Victoria	5DS1	Calle_Victoria	Field	Spell				3	TCG	Todos los Pokemon Tierra y Roca ganan 400 puntos de ATK y DEF. Una vez por turno, durante tu Main Phase, mira las 3 primeras cartas de la parte superior de tu mazo. Si hay 1 carta de 'Entrenador Guay', anadela a tu mano y devuelve las otras 2 cartas en el orden original
+Cueva Celeste	5DS1	Cueva_Celeste	Field	Spell				3	TCG	Una vez por turno, durante tu Main Phase, mira las 3 primeras cartas de la parte superior de tu mazo. Si hay 1 Pokemon Roca o Lucha, añadelo a tu mano y regresa el resto de las cartas en el orden original. En adicion, lanza 1 moneda a cara o cruz. Si el resultado es 'cara', anade 1 'Mewtwo' de tu mazo a tu mano. Mezcla el mazo
+Tunel Roca	5DS1	Tunel_Roca	Field	Spell				3	TCG	Todos los Pokemon Tierra, Roca y Lucha ganan 300 puntos de ATK y DEF.
+Torre Pokemon	5DS1	Torre_Pokemon	Field	Spell				3	TCG	Todos los Pokemon Fantasma ganan 200 puntos de ATK y DEF.
+Dojo Karate	5DS1	Dojo_Karate	Field	Spell				3	TCG	Todos los Pokemon Lucha ganan 500 puntos de ATK y DEF.
+Bicicleta	5DS1	Bicicleta	Normal	Spell				2	TCG	Roba 3 cartas de la parte superior de tu mazo
+Hueso Grueso	5DS1	Hueso_Grueso	Equip	Spell				3	TCG	Equipa esta carta a 'Cubone' o 'Marowak'. Incrementa su ATK en 400 puntos
+Puerro	5DS1	Puerro	Equip	Spell				3	TCG	Equipa esta carta unicamente a "Farfetch'd". Incrementa su ATK en 300 puntos
+Vidasfera	5DS1	Vidasfera	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon boca arriba que controles: duplica su ATK. En cada una de  tus Standby Phases, pierdes 400 Life Points
+Restos	5DS1	Restos	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon boca arriba que controles. En cada una de tus Standby Phases, incrementa tus Life Points en 200 puntos.
+Lider Brock	5DS1	Lider_Brock	Normal	Spell				1	TCG	Busca en tu mazo 1 Pokemon Roca y anadelo a tu mano. Mezcla el mazo. Hasta el final del turno, cuando 1 Pokemon Roca destruye a 1 Pokemon del oponente como resultado de una batalla, puedes anadir 1 'Tumba Rocas' de tu mazo a tu mano. Mezcla el mazo
+Lider Misty	5DS1	Lider_Misty	Normal	Spell				1	TCG	Invoca de forma especial, desde tu mano, 1 Pokemon de AGUA de nivel 4 o inferior. Hasta el final del turno, cuando 1 Pokemon de AGUA que controlas destruye 1 Pokemon, roba 1 carta de la parte superior de tu mazo
+Lider Surge	5DS1	Lider_Surge	Normal	Spell				1	TCG	Busca en tu mazo 1 Pokemon Electrico y anadelo a tu mano. Mezcla el mazo. Hasta el final del turno, cuando 1 Pokemon Electrico que controlas destruye 1 Pokemon, roba 2 cartas. En adicion, puedes anadir 1 'Rayo' o 'Piedra Trueno' de tu mazo a tu mano. Mezcla el mazo
+Lider Erika	5DS1	Lider_Erika	Normal	Spell				1	TCG	Invoca de forma especial, desde tu mano, 1 Pokemon Planta de nivel 4 o inferior. Hasta el final del turno, cuando 1 Pokemon Planta destruye 1 Pokemon del oponente, robas 2 cartas. En adicion, puedes anadir 1 'Gigadrenado' de tu mazo a tu mano. Mezcla el mazo
+Lider Sabrina	5DS1	Lider_Sabrina	Normal	Spell				1	TCG	Busca en tu mazo 1 Pokemon Psiquico y anadelo a tu mano. Mezcla el mazo. Hasta el final del turno puedes invocar, desde tu mano, Pokemon Psiquico de nivel 7 con un sacrificio menos. En adicion, puedes voltear 1 carta boca abajo en el campo de tu oponente (sus efectos no se activan). Regresala a su posicion original
+Lider Koga	5DS1	Lider_Koga	Normal	Spell				1	TCG	Busca en tu mazo 1 Pokemon Veneno y anadelo a tu mano. Mezcla el mazo. Hasta el final del turno, cuando 1 Pokemon Veneno que controlas destruye 1 Pokemon, robas 2 cartas de la parte superior de tu mazo. En adicion, puedes anadir 1 'Toxico' de tu mazo a tu mano.
+Lider Blaine	5DS1	Lider_Blaine	Normal	Spell				1	TCG	Busca en tu mazo 1 Pokemon Fuego y anadelo a tu mano. Mezcla el mazo . Hasta el final del turno, cuando 1 Pokemon de FUEGO que controlas destruye 1 Pokemon, tu oponente descarta 2 cartas de su mano. En adicion, puedes anadir 1 'Llamarada' de tu mazo a tu mano. Mezcla el mazo
+Lider Giovanni	5DS1	Lider_Giovanni	Normal	Spell				1	TCG	Busca en tu mazo 1 Pokemon Tierra y anadelo a tu mano. Mezcla el mazo. Hasta el final del turno, cuando 1 Pokemon Tierra que controlas destruye 1 Pokemon, tu oponente envia 2 cartas de su zona de cartas magicas/trampa al Cementerio. En adicion, puedes anadir 1 'Terremoto' de tu mazo a tu mano. Mezcla el mazo
+Alto Mando Lorelei	5DS1	Alto_Mando_Lorelei	Normal	Spell				1	TCG	Busca en tu mazo 1 Pokemon Hielo y anadelo a tu mano. Mezcla el mazo. Durante el turno en el que es activada esta carta, puedes invocar hasta 2 Pokemon Hielo de tu mano de forma normal
+Alto Mando Bruno	5DS1	Alto_Mando_Bruno	Normal	Spell				1	TCG	Busca en tu mazo 1 Pokemon Lucha y anadelo a tu mano. Mezcla el mazo. Hasta el final del turno puedes invocar, desde tu mano, Pokemon Lucha de nivel 7 con un sacrificio menos
+Alto Mando Agatha	5DS1	Alto_Mando_Agatha	Normal	Spell				1	TCG	Busca en tu mazo 1 Pokemon Fantasma y anadelo a tu mano. Mezcla el mazo. Hasta el final del turno puedes invocar, desde tu mano, Pokemon Lucha de nivel 7 con un sacrificio menos. 
+Alto Mando Lance	5DS1	Alto_Mando_Lance	Normal	Spell				1	TCG	Busca en tu mazo 1 Pokemon Dragon y anadelo a tu mano. Mezcla el mazo. Hasta el final del turno puedes invocar, desde tu mano, Pokemon Lucha de nivel 7 con un sacrificio menos. Cuando invocas 1 Pokemon Dragon, tu oponente descarta toda su mano
+Cazabichos	5DS1	Cazabichos	Normal	Spell				3	TCG	Mira las 3 primeras cartas de la parte superior de tu mazo. Si hay 1 Pokemon Bicho, anadelo a tu mano y regresa el resto de las cartas en el orden original
+Joven	5DS1	Joven	Normal	Spell				3	TCG	Mira las 3 primeras cartas de la parte superior de tu mazo. Si hay 1 Pokemon Normal o Veneno, anadelo a tu mano y regresa el resto de las cartas en el orden original
+Chica	5DS1	Chica	Normal	Spell				3	TCG	Roba cartas de la parte superior de tu mazo hasta que tengas 4 cartas en tu mano
+Montanero	5DS1	Montanero	Normal	Spell				3	TCG	Mira las 5 primeras cartas de la parte superior de tu mazo. Si hay 1 Pokemon Roca, anadelo a tu mano y regresa el resto de las cartas en el orden original
+Pescador	5DS1	Pescador	Normal	Spell				3	TCG	Anade 1 'Supercana' de tu mazo a tu mano. Mezcla el mazo
+Karateka	5DS1	Karateka	Normal	Spell				3	TCG	Incrementa el ATK y DEF de 1 Pokemon Lucha que controlas en 300 puntos hasta el final del turno en el que es activada esta carta
+Entrenador Guay	5DS1	Entrenador_Guay	Normal	Spell				3	TCG	Roba cartas de la parte superior de tu mazo hasta que tengas 6 cartas en tu mano
+Ornitologo	5DS1	Ornitologo	Normal	Spell				3	TCG	Busca en tu mazo 1 Pokemon Volador y anadelo a tu mano. Mezcla el mazo
+Nadador	5DS1	Nadador	Normal	Spell				3	TCG	Busca en tu mazo 1 Pokemon de AGUA y anadelo a tu mano. Mezcla el mazo
+Exorcista	5DS1	Exorcista	Normal	Spell				3	TCG	Busca en tu mazo 1 Pokemon Fantasma y anadelo a tu mano. Mezcla el mazo
+Jefe Giovanni	5DS1	Jefe_Giovanni	Normal	Spell				1	TCG	Tu oponente destierra toda su mano. Roba 1 carta por cada carta desterrada por este efecto
+Soldado Team Rocket	5DS1	Soldado_Team_Rocket	Normal	Spell				3	TCG	Toma el control de 1 Pokemon en el campo del oponente
+Casino Rocket	5DS1	Casino_Rocket	Field	Spell				1	TCG	Lanza 1 dado de 6 caras. Si el resultado es 1, 2 o 3, descartas 1 carta por cada numero obtenido. Si el resultado es 4, 5 o 6, robas 1 carta por cada numero obtenido
+Profesor Oak	5DS1	Profesor_Oak	Normal	Spell				1	TCG	Anade 1 'Bulbasaur', 'Charmander' o 'Squirtle' de tu mazo a tu mano. Mezcla el mazo
+Correo del Profesor	5DS1	Correo_Del_Profesor	Normal	Spell				1	TCG	Roba 1 carta de la parte superior de tu mazo
+Pokedex	5DS1	Pokedex	Normal	Spell				1	TCG	Mira las 5 primeras cartas de la parte superior de tu mazo y devuelvelas en el orden que desees
+Bill	5DS1	Bill	Normal	Spell				1	TCG	Roba 3 cartas de la parte superior de tu mazo
+Sistema de Almacenamiento Pokemon	5DS1	Sistema_Almacenamiento_Pokemon	Normal	Spell				3	TCG	Devuelve tu mano a tu mazo y mezclalo. Roba cartas hasta que tengas el mismo numero de cartas que fueron devueltas al mazo
+Maquina de Intercambio	5DS1	Maquina_Intercambio	Normal	Spell				3	TCG	Tu y tu oponente eligen 1 carta de Pokemon de sus respectivas manos y la entregan al jugador contrario
+Centro Pokemon	5DS1	Centro_Pokemon	Normal	Spell				3	TCG	Devuelve a tu mazo, desde tu Cementerio, hasta 6 cartas de Pokemon. Mezcla el mazo
+Contador	5DS1	Contador	Normal	Trap				3	TCG	Puedes activar esta carta cuando 1 Pokemon de tu oponente declara un ataque contra 1 Pokemon que controles en posicion de ataque: el oponente recibe dano directo equivalente a la diferencia de dano efectuada
+Barrera	5DS1	Barrera	Continuous	Spell				2	TCG	Mientras esta carta permanezca activa en el campo, duplica la DEF de todos los Pokemon que controlas
+Pantalla Luz	5DS1	Pantalla_Luz	Quick-play	Spell				2	TCG	Reduce a la mitad todo el dano de batalla infligido por Pokemon del oponente hasta el final del turno en el que es activada esta carta
+Movimiento Sismico	5DS1	Movimiento_Sismico	Equip	Spell				3	TCG	Selecciona 1 Pokemon Lucha. Cuando batalla contra 1 Pokemon, incrementa su ATK en un valor equivalente al nivel del objetivo x200 puntos hasta el final del turno
+Demolicion	5DS1	Demolicion	Normal	Spell				3	TCG	Selecciona y destruye todas las cartas de 'Pantalla Luz' y 'Reflejo' activas en el campo del oponente
+Paz Mental	5DS1	Paz_Mental	Normal	Spell				3	TCG	Selecciona 1 Pokemon Psiquico que controles. Incrementa su ATK y DEF en 500 puntos
+Sustituto	5DS1	Sustituto	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon que controles. Si el Pokemon fuera a ser destruido (en batalla o por efectos), destruye esta carta en su lugar
+Corpulencia	5DS1	Corpulencia	Equip	Spell				3	TCG	Selecciona 1 Pokemon Lucha que controles. Gana 600 puntos de ATK y DEF
+Sofoco	5DS1	Sofoco	Normal	Spell				3	TCG	Debes controlar 1 Pokemon Fuego para activar esta carta. Descarta 2 cartas de tu mano. Selecciona y destruye 1 Pokemon del oponente e inflige dano directo a los Life Points del oponente en un valor equivalente al ATK del Pokemon seleccionado
+Meditacion	5DS1	Meditacion	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon Psiquico que controles. Gana 600 puntos de ATK
+Placaje Electrico	5DS1	Placaje_Electrico	Quick-play	Spell				3	TCG	Puedes activar esta carta cuando declaras un ataque con 'Pikachu' o 'Raichu'. Aumenta su ATK en 1200 puntos hasta el final de la Battle Phase. En adicion, pierdes 1000 Life Points
+Movimiento Espejo	5DS1	Movimiento_Espejo	Normal	Trap				3	TCG	Debes controlar 1 Pokemon Volador para activar esta carta. El efecto de esta carta se convierte en el ultimo efecto aplicado por tu oponente durante este turno
+Inversion	5DS1	Inversion	Quick-play	Spell				3	TCG	Selecciona 1 Pokemon Lucha que controles. Si tus Life Points son inferiores a los de tu oponente, gana 1500 puntos de ATK
+Rencor	5DS1	Rencor	Normal	Trap				3	TCG	Debes controlar 1 Pokemon de OSCURIDAD para activar esta carta. Lanza 1 dado de 6 caras. Tu oponente descarta cartas de su Mazo en un valor equivalente al numero obtenido en el lanzamiento de dado
+Magnitud	5DS1	Magnitud	Normal	Trap				3	TCG	Debes controlar 1 Pokemon Tierra para activar esta carta. Lanza 1 dado de 6 caras. Inflige dano directo a los Life Points del oponente en un valor equivalente al numero obtenido multiplicado por 200
+Aguante	5DS1	Aguante	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon que controles. Si el Pokemon fuera a ser destruido como resultado de una batalla, niega el ataque y reduce el dano de batalla a 0. Envia esta carta al Cementerio
+Danza Dragon	5DS1	Danza_Dragon	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon Dragon que controles. En cada una de tus Standby Phases, gana 300 puntos de ATK y DEF
+Onda Voltio	5DS1	Onda_Voltio	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon Electrico que controles. Gana 300 puntos de ATK. Cuando el Pokemon equipado declara un ataque, tu oponente no puede activar efectos que impidan atacar
+Desquite	5DS1	Desquite	Normal	Trap				3	TCG	Puedes activar esta carta cuando recibes dano de batalla a tus Life Points. Inflige dano directo a los Life Points de tu oponente en un valor equivalente al dano de batalla recibido
+Desarme	5DS1	Desarme	Normal	Trap				3	TCG	Puedes activar esta carta cuando declaras un ataque con 1 Pokemon de OSCURIDAD. Antes del calculo de dano, tu oponente envia al Cementerio 1 carta magica equipada al objetivo de ataque del Pokemon que controlas
+Robo	5DS1	Robo	Normal	Trap				3	TCG	Selecciona 1 Pokemon de OSCURIDAD que controles y 1 Pokemon del oponente. El Pokemon en tu lado del campo gana el efecto del Pokemon de tu oponente hasta el final del turno en el que es activada esta carta
+Neblina	5DS1	Neblina	Continuous	Spell				3	TCG	Mientras esta carta permanezca activa en el campo, niega los efectos que reducen ATK y DEF
+Carga	5DS1	Carga	Normal	Spell				3	TCG	Selecciona 1 Pokemon Electrico que controles. Duplica su ATK hasta el final del turno en el que es activada esta carta
+Anillo Igneo	5DS1	Anillo_Igneo	Normal	Spell				3	TCG	Debes controlar 1 Pokemon Fuego para activar esta carta. Inflige 1500 puntos de dano a los Life Points de tu oponente. No puedes declarar ataques en el turno en que es activada esta carta
+Hidrocanon	5DS1	Hidrocanon	Normal	Spell				3	TCG	Debes controlar 1 Pokemon Agua para activar esta carta. Inflige 1500 puntos de dano a los Life Points de tu oponente. No puedes declarar ataques en el turno en que es activada esta carta
+Paralizador	5DS1	Paralizador	Continuous	Trap				3	TCG	Debes controlar 1 Pokemon Planta para activar esta carta. Selecciona 1 Pokemon que tu oponente controle: no podra atacar ni cambiar su posicion de batalla mientras esta carta siga activa en el campo
+Latigo Cepa	5DS1	Latigo_Cepa	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon Planta de nivel 4 o superior. Gana 400 puntos de ATK
+Pistola Agua	5DS1	Pistola_Agua	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon Agua de nivel 3 o superior. Gana 400 puntos de ATK
+Ascuas	5DS1	Ascuas	Equip 	Spell				3	TCG	Equipa esta carta a 1 Pokemon Fuego. Gana 400 puntos de ATK
+Tumba Rocas	5DS1	Tumba_Rocas	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon Roca. Gana 600 puntos de ATK
+Max Pocion	5DS1	Max_Pocion	Normal	Spell				3	TCG	Incrementa tus Life Points hasta que tengas 4000
+Restaurar Todo	5DS1	Restaurar_Todo	Normal	Spell				3	TCG	Incrementa tus Life Points hasta que tengas 4000. En adicion, envia 1 carta en el campo de tu oponente cuyo efecto impida atacar o reduzca ATK y DEF
+Moneda Amuleto	5DS1	Moneda_Amuleto	Equip	Spell				1	TCG	Equipa esta carta a 1 Pokemon que controles. Cuando el Pokemon equipado destruye a 1 Pokemon del oponente, robas 1 carta de la parte superior de tu mazo
+Repartir Exp	5DS1	Repartir_Exp	Equip	Spell				1	TCG	Equipa esta carta a 1 Pokemon que controles. Cuando otro Pokemon en tu lado del campo destruye a 1 Pokemon del oponente, incrementa los puntos de ATK y DEF del Pokemon equipado con esta carta en un valor equivalente al nivel del Pokemon destruido x100
