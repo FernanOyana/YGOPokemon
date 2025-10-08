@@ -10,10 +10,10 @@ Wartortle	5DS1	Wartortle	Agua	Agua	5	1550	1600	3	TCG	Durante la fase de batalla 
 Blastoise	5DS1	Blastoise	Agua	Agua	7	1900	2500	3	TCG	Mientras controles esta carta, incrementa en 300 puntos el ATK de los Pokemon de Agua en tu lado del campo.
 Caterpie	5DS1	Caterpie	Bicho	Tierra	2	200	100	3	TCG	Tiene la piel de color verde. Cuando la muda, se recubre de seda y se convierte en capullo
 Metapod	5DS1	Metapod	Bicho	Tierra	5	0	500	3	TCG	Esta carta solo puede ser invocada de forma especial enviando 1 'Caterpie' en tu lado del campo. Cuando es declarada como objetivo de ataque, incrementa su DEF en 300 puntos
-Butterfree	5DS1	Butterfree	Bicho	Viento	5	1000	1400	3	TCG	Cuando esta carta batalla contra 1 Pokemon Psiquico, duplica su ATK hasta el final del turno.
+Butterfree	5DS1	Butterfree	Bicho	Viento	5	1000	1400	3	TCG	Esta carta solo puede ser invocada de forma especial enviando 1 'Metapod' de tu campo al Cementerio. Cuando esta carta batalla contra 1 Pokemon Psiquico, duplica su ATK hasta el final del turno.
 Weedle	5DS1	Weedle	Bicho	Tierra	2	250	200	3	TCG	Cuando esta carta ataca a 1 Pokemon, antes del calculo de dano, reduce la DEF del objetivo en 200 puntos.
 Kakuna	5DS1	Kakuna	Bicho	Tierra	5	0	600	3	TCG	Esta carta solo puede ser invocada de forma especial enviando 1 'Weedle' en tu lado del campo. Cuando es declarada como objetivo de ataque, incrementa su DEF en 300 puntos
-Beedrill	5DS1	Beedrill	Bicho	Tierra	5	1100	1300	3	TCG	Esta carta puede atacar 2 veces en un mismo turno.
+Beedrill	5DS1	Beedrill	Bicho	Tierra	5	1100	1300	3	TCG	Esta carta solo puede ser invocada de forma especial enviando 1 'Kakuna' de tu campo al Cementerio. Esta carta puede atacar 2 veces en un mismo turno.
 Pidgey	5DS1	Pidgey	Volador	Viento	3	500	700	3	TCG	Esta carta no puede ser seleccionada por ataques de Pokemon Tierra. Cuando batalla contra 1 Pokemon Planta o Bicho, duplica su ATK hasta el final del turno
 Pidgeotto	5DS1	Pidgeotto	Volador	Viento	5	1200	1100	3	TCG	Esta carta no puede ser seleccionada por ataques de Pokemon Tierra. Durante la fase de batalla de tu turno, puede atacar directamente a los Life Points del oponente
 Pidgeot 	5DS1	Pidgeot	Volador	Viento	7	1850	1500	3	TCG	Esta carta no puede ser seleccionada por ataques de Pokemon Tierra. Una vez por turno, selecciona 1 Pokemon que el oponente controla y regresalo a la mano de su propietario.
@@ -249,7 +249,6 @@ Joven	5DS1	Joven	Normal	Spell				3	TCG	Mira las 3 primeras cartas de la parte su
 Chica	5DS1	Chica	Normal	Spell				3	TCG	Roba cartas de la parte superior de tu mazo hasta que tengas 4 cartas en tu mano
 Montanero	5DS1	Montanero	Normal	Spell				3	TCG	Mira las 5 primeras cartas de la parte superior de tu mazo. Si hay 1 Pokemon Roca, anadelo a tu mano y regresa el resto de las cartas en el orden original
 Pescador	5DS1	Pescador	Normal	Spell				3	TCG	Anade 1 'Supercana' de tu mazo a tu mano. Mezcla el mazo
-Karateka	5DS1	Karateka	Normal	Spell				3	TCG	Incrementa el ATK y DEF de 1 Pokemon Lucha que controlas en 300 puntos hasta el final del turno en el que es activada esta carta
 Entrenador Guay	5DS1	Entrenador_Guay	Normal	Spell				3	TCG	Roba cartas de la parte superior de tu mazo hasta que tengas 6 cartas en tu mano
 Ornitologo	5DS1	Ornitologo	Normal	Spell				3	TCG	Busca en tu mazo 1 Pokemon Volador y anadelo a tu mano. Mezcla el mazo
 Nadador	5DS1	Nadador	Normal	Spell				3	TCG	Busca en tu mazo 1 Pokemon de AGUA y anadelo a tu mano. Mezcla el mazo
@@ -277,14 +276,12 @@ Meditacion	5DS1	Meditacion	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon Ps
 Placaje Electrico	5DS1	Placaje_Electrico	Quick-play	Spell				3	TCG	Puedes activar esta carta cuando declaras un ataque con 'Pikachu' o 'Raichu'. Aumenta su ATK en 1200 puntos hasta el final de la Battle Phase. En adicion, pierdes 1000 Life Points
 Movimiento Espejo	5DS1	Movimiento_Espejo	Normal	Trap				3	TCG	Debes controlar 1 Pokemon Volador para activar esta carta. El efecto de esta carta se convierte en el ultimo efecto aplicado por tu oponente durante este turno
 Inversion	5DS1	Inversion	Quick-play	Spell				3	TCG	Selecciona 1 Pokemon Lucha que controles. Si tus Life Points son inferiores a los de tu oponente, gana 1500 puntos de ATK
-Rencor	5DS1	Rencor	Normal	Trap				3	TCG	Debes controlar 1 Pokemon de OSCURIDAD para activar esta carta. Lanza 1 dado de 6 caras. Tu oponente descarta cartas de su Mazo en un valor equivalente al numero obtenido en el lanzamiento de dado
 Magnitud	5DS1	Magnitud	Normal	Trap				3	TCG	Debes controlar 1 Pokemon Tierra para activar esta carta. Lanza 1 dado de 6 caras. Inflige dano directo a los Life Points del oponente en un valor equivalente al numero obtenido multiplicado por 200
 Aguante	5DS1	Aguante	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon que controles. Si el Pokemon fuera a ser destruido como resultado de una batalla, niega el ataque y reduce el dano de batalla a 0. Envia esta carta al Cementerio
 Danza Dragon	5DS1	Danza_Dragon	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon Dragon que controles. En cada una de tus Standby Phases, gana 300 puntos de ATK y DEF
 Onda Voltio	5DS1	Onda_Voltio	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon Electrico que controles. Gana 300 puntos de ATK. Cuando el Pokemon equipado declara un ataque, tu oponente no puede activar efectos que impidan atacar
 Desquite	5DS1	Desquite	Normal	Trap				3	TCG	Puedes activar esta carta cuando recibes dano de batalla a tus Life Points. Inflige dano directo a los Life Points de tu oponente en un valor equivalente al dano de batalla recibido
 Desarme	5DS1	Desarme	Normal	Trap				3	TCG	Puedes activar esta carta cuando declaras un ataque con 1 Pokemon de OSCURIDAD. Antes del calculo de dano, tu oponente envia al Cementerio 1 carta magica equipada al objetivo de ataque del Pokemon que controlas
-Robo	5DS1	Robo	Normal	Trap				3	TCG	Selecciona 1 Pokemon de OSCURIDAD que controles y 1 Pokemon del oponente. El Pokemon en tu lado del campo gana el efecto del Pokemon de tu oponente hasta el final del turno en el que es activada esta carta
 Neblina	5DS1	Neblina	Continuous	Spell				3	TCG	Mientras esta carta permanezca activa en el campo, niega los efectos que reducen ATK y DEF
 Carga	5DS1	Carga	Normal	Spell				3	TCG	Selecciona 1 Pokemon Electrico que controles. Duplica su ATK hasta el final del turno en el que es activada esta carta
 Anillo Igneo	5DS1	Anillo_Igneo	Normal	Spell				3	TCG	Debes controlar 1 Pokemon Fuego para activar esta carta. Inflige 1500 puntos de dano a los Life Points de tu oponente. No puedes declarar ataques en el turno en que es activada esta carta
