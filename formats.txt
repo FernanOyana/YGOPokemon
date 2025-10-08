@@ -1,6 +1,7 @@
 <formatdefinitions>
 
 <format><label>TCG</label>
+<set>Gen1</set>
 <set>5DS1</set>
 <set>5DS2</set>
 <set>5DS3</set>
