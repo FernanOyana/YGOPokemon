@@ -156,8 +156,8 @@ Ultraball	5DS1	Ultraball	Normal	Spell				2	TCG	Invoca de forma especial, desde t
 Masterball	5DS1	Masterball	Normal	Spell				1	TCG	Invoca de forma especial, desde tu mano, 1 Pokémon sin importar su nivel
 Revivir	5DS1	Revivir	Normal	Spell				3	TCG	Selecciona 1 Pokemon en tu Cementerio: invocalo de forma especial en tu lado del Campo
 Pocion	5DS1	Pocion	Normal	Spell				3	TCG	Incrementa tus Life Points en 200 puntos
-Superpoción	5DS1	Superpocion	Normal	Spell				3	TCG	Incrementa tus Life Points en 400 puntos
-Hiperpoción	5DS1	Hiperpocion	Normal	Spell				3	TCG	Incrementa tus Life Points en 500 puntos
+Superpocion	5DS1	Superpocion	Normal	Spell				3	TCG	Incrementa tus Life Points en 400 puntos
+Hiperpocion	5DS1	Hiperpocion	Normal	Spell				3	TCG	Incrementa tus Life Points en 500 puntos
 Puas	5DS1	Puas	Continuous	Trap				3	TCG	Mientras esta carta se encuentre activa en el campo, cuando tu oponente invoca un Pokemon, recibe 200 puntos de dano a sus Life Points
 Canto Mortal	5DS1	Canto_Mortal	Normal	Trap				2	TCG	Debes controlar a 'Lapras' para activar este efecto. Transcurridos 3 turnos desde la activacion de esta carta, todos los Pokemon en el campo son enviados al Cementerio
 Frio Polar	5DS1	Frio_polar	Normal	Trap				2	TCG	Debes controlar a 'Lapras' para activar este efecto. Selecciona 1 Pokemon que el oponente controle y lanza 1 moneda a cara o cruz: si el resultado es 'cara', destruye al Pokemon seleccionado 
@@ -295,3 +295,4 @@ Max Pocion	5DS1	Max_Pocion	Normal	Spell				3	TCG	Incrementa tus Life Points hast
 Restaurar Todo	5DS1	Restaurar_Todo	Normal	Spell				3	TCG	Incrementa tus Life Points hasta que tengas 4000. En adicion, envia 1 carta en el campo de tu oponente cuyo efecto impida atacar o reduzca ATK y DEF
 Moneda Amuleto	5DS1	Moneda_Amuleto	Equip	Spell				1	TCG	Equipa esta carta a 1 Pokemon que controles. Cuando el Pokemon equipado destruye a 1 Pokemon del oponente, robas 1 carta de la parte superior de tu mazo
 Repartir Exp	5DS1	Repartir_Exp	Equip	Spell				1	TCG	Equipa esta carta a 1 Pokemon que controles. Cuando otro Pokemon en tu lado del campo destruye a 1 Pokemon del oponente, incrementa los puntos de ATK y DEF del Pokemon equipado con esta carta en un valor equivalente al nivel del Pokemon destruido x100
+
