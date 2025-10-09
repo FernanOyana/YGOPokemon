@@ -150,12 +150,12 @@ Dragonair	5DS1	Dragonair	Dragon	Agua	5	1600	1400	3	TCG	Mientras esta carta se en
 Dragonite	5DS1	Dragonite	Dragon	Viento	7	2500	2200	3	TCG	Esta carta no puede ser seleccionada por ataques de Pokemon Tierra. No puede ser seleccionada por efectos que impidan atacar. Cuando es invocada con exito, anade 1 'Furia Dragon' de tu mazo a tu mano. Mezcla el mazo
 Mewtwo	5DS1	Mewtwo	Psíquico	Oscuridad	8	2800	1600	1	TCG	Esta carta no puede ser invocada de forma normal. No puede ser destruida como resultado de una batalla. En cada una de tus Standby Phases, incrementa tus Life Points en 1000 puntos
 Mew 	5DS1	Mew	Psíquico	Luz	8	2300	1700	1	TCG	Esta carta no puede ser invocada de forma normal. No puede ser destruida como resultado de una batalla. Una vez por turno, durante tu Main Phase, selecciona 1 Pokemon que el oponente controla: copia su Atributo. Cualquier efecto de Pokemon aplicado en esta carta que reduzca ATK/DEF e impida atacar, es aplicado en la carta de Pokemon que lo activo.
-Pokéball	5DS1	Pokeball	Normal	Spell				3	TCG	Invoca de forma especial, desde tu mano, 1 Pokémon de nivel 4 o inferior
-Superball	5DS1	Superball	Normal	Spell				3	TCG	Invoca de forma especial, desde tu mano, 1 Pokémon de nivel 5 o inferior
-Ultraball	5DS1	Ultraball	Normal	Spell				3	TCG	Invoca de forma especial, desde tu mano, 1 Pokémon de nivel 7 o inferior
+Pokeball	5DS1	Pokeball	Normal	Spell				3	TCG	Invoca de forma especial, desde tu mano, 1 Pokémon de nivel 4 o inferior
+Superball	5DS1	Superball	Normal	Spell				2	TCG	Invoca de forma especial, desde tu mano, 1 Pokémon de nivel 5 o inferior
+Ultraball	5DS1	Ultraball	Normal	Spell				2	TCG	Invoca de forma especial, desde tu mano, 1 Pokémon de nivel 7 o inferior
 Masterball	5DS1	Masterball	Normal	Spell				1	TCG	Invoca de forma especial, desde tu mano, 1 Pokémon sin importar su nivel
 Revivir	5DS1	Revivir	Normal	Spell				3	TCG	Selecciona 1 Pokemon en tu Cementerio: invocalo de forma especial en tu lado del Campo
-Poción	5DS1	Pocion	Normal	Spell				3	TCG	Incrementa tus Life Points en 200 puntos
+Pocion	5DS1	Pocion	Normal	Spell				3	TCG	Incrementa tus Life Points en 200 puntos
 Superpoción	5DS1	Superpocion	Normal	Spell				3	TCG	Incrementa tus Life Points en 400 puntos
 Hiperpoción	5DS1	Hiperpocion	Normal	Spell				3	TCG	Incrementa tus Life Points en 500 puntos
 Puas	5DS1	Puas	Continuous	Trap				3	TCG	Mientras esta carta se encuentre activa en el campo, cuando tu oponente invoca un Pokemon, recibe 200 puntos de dano a sus Life Points
