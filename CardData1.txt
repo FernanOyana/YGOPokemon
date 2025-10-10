@@ -215,7 +215,7 @@ Cuerda Huida	5DS1	Cuerda_Huida	Quick-play	Spell				3	TCG	Selecciona 1 Pokemon bo
 Cinta Aguante	5DS1	Cinta_Aguante	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon que controles. Una vez por turno, si el Pokemon fuera a ser destruido como resultado de una batalla, reduce el dano de batalla a 0
 Mapa	5DS1	Mapa	Normal	Spell				1	TCG	Anade 1 carta magica de campo de tu mazo a tu mano. Mezcla el mazo
 Scope Silph	5DS1	Scope_Silph	Normal	Spell				1	TCG	La carta 'Torre Pokemon' debe estar activa en el campo. Mira las 3 primeras cartas de tu mazo. Si hay 1 Pokemon Fantasma, anadelo a tu mano
-Bosque Verde	5DS1	Bosque_Verde	Field	Spell				3	TCG	Todos los Pokemon Bicho ganan 200 puntos de ATK y DEF.
+Bosque Verde	5DS1	Bosque_Verde	Field	Spell				3	TCG	Todos los Pokemon Bicho y Planta ganan 200 puntos de ATK y DEF.
 Mt. Moon	5DS1	Mt_Moon	Field	Spell				3	TCG	Todos los Pokemon Roca ganan 200 puntos de ATK y DEF.
 Mt. Ascuas	5DS1	Mt_Ascuas	Field	Spell				3	TCG	Todos los Pokemon de FUEGO ganan 200 puntos de ATK y DEF.
 Cueva Glaciada	5DS1	Cueva_Glaciada	Field	Spell				3	TCG	Todos los Pokemon Hielo y Agua ganan 200 puntos de ATK y DEF, y ademas los Pokemon Fuego, Tierra y Roca pierden 200 puntos de ATK y DEF
