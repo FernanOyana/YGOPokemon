@@ -118,7 +118,7 @@ Horsea	5DS1	Horsea	Agua	Agua	3	300	500	3	TCG	Si la carta 'islas Espuma' se encue
 Seadra	5DS1	Seadra	Agua	Agua	5	1600	1500	3	TCG	Cuando esta carta es declarada como objetivo de un ataque, antes del calculo de dano el oponente pierde 400 Life Points 
 Goldeen	5DS1	Goldeen	Agua	Agua	3	400	600	3	TCG	Cuando esta carta es invocada de forma normal con exito, los Pokemon Fuego pierden 300 puntos de ATK
 Seaking	5DS1	Seaking	Agua	Agua	5	1500	1400	3	TCG	Esta carta no puede ser seleccionada por efectos que reduzcan ATK. Cuando ataca a un Pokemon en posicion de defensa, duplica su ATK hasta el final del turno
-Staryu	5DS1	Staryu	Agua	Agua	3	700	600	3	TCG	Cuando esta carta es invocada de forma normal con exito, roba 2 cartas de la parte superior de tu mazo
+Staryu	5DS1	Staryu	Agua	Agua	3	700	600	3	TCG	Volteo: roba 2 cartas de la parte superior de tu mazo
 Starmie	5DS1	Starmie	Agua	Agua	5	1600	900	3	TCG	Esta carta solo puede ser invocada por el efecto de "Piedra Agua"  y enviando al Cementerio 1 'Staryu' en tu lado del campo. Cuando es invocada con exito, anade 1 'Giro Rapido' de tu mazo a tu mano. Mezcla el mazo. Durante cada una de las Standby Phases de tu turno, mientras esta carta permanezca boca arriba en tu lado del campo, incrementa tus Life Points en un valor equivalente a la mitad de tus Life Points actuales
 Mr. Mime	5DS1	MrMime	Psiquico	Luz	4	1600	1500	3	TCG	Mientras esta carta permanezca boca arriba en tu lado del campo, incrementa la DEF de todos los Pokemon que controles en 500 puntos
 Scyther	5DS1	Scyther	Bicho	Viento	4	1500	1400	3	TCG	Durante la Battle Phase de tu turno, aumenta el ATK de esta carta en 500 puntos
@@ -248,7 +248,7 @@ Cazabichos	5DS1	Cazabichos	Normal	Spell				3	TCG	Mira las 3 primeras cartas de l
 Joven	5DS1	Joven	Normal	Spell				3	TCG	Mira las 3 primeras cartas de la parte superior de tu mazo. Si hay 1 Pokemon Normal o Veneno, anadelo a tu mano y regresa el resto de las cartas en el orden original
 Chica	5DS1	Chica	Normal	Spell				3	TCG	Roba cartas de la parte superior de tu mazo hasta que tengas 4 cartas en tu mano
 Montanero	5DS1	Montanero	Normal	Spell				3	TCG	Mira las 5 primeras cartas de la parte superior de tu mazo. Si hay 1 Pokemon Roca, anadelo a tu mano y regresa el resto de las cartas en el orden original
-Pescador	5DS1	Pescador	Normal	Spell				3	TCG	Anade 1 'Supercana' de tu mazo a tu mano. Mezcla el mazo
+Pescador	5DS1	Pescador	Normal	Spell				3	TCG	Anade 1 'Supercana' y 1 'Pokeball' de tu mazo a tu mano. Mezcla el mazo
 Entrenador Guay	5DS1	Entrenador_Guay	Normal	Spell				3	TCG	Roba cartas de la parte superior de tu mazo hasta que tengas 6 cartas en tu mano
 Ornitologo	5DS1	Ornitologo	Normal	Spell				3	TCG	Busca en tu mazo 1 Pokemon Volador y anadelo a tu mano. Mezcla el mazo
 Nadador	5DS1	Nadador	Normal	Spell				3	TCG	Busca en tu mazo 1 Pokemon de AGUA y anadelo a tu mano. Mezcla el mazo
