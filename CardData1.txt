@@ -172,10 +172,10 @@ Llamarada	5DS1	Llamarada	Normal	Spell				3	TCG	Incrementa el ATK de un Pokemon F
 Hidrobomba	5DS1	Hidrobomba	Normal	Spell				3	TCG	Incrementa el ATK de un Pokemon AGUA en 1000 puntos hasta el final del turno en el que es activada esta carta
 Terremoto	5DS1	Terremoto	Normal	Spell				3	TCG	Debes controlar 1 Pokemon Tierra para activar esta carta. Destruye todas las cartas de Pokemon en el campo. Los Pokemon de VIENTO no pueden ser seleccionados por este efecto
 Hiperrayo	5DS1	Hiperrayo	Normal	Spell				3	TCG	Debes controlar a 'Dragonite' para activar esta carta: incrementa su ATK en 1000 puntos hasta el final del turno. La carta seleccionada no podra declarar ataques durante tu proximo turno.
-Danza Lluvia	5DS1	Danza_Lluvia	Continuous	Spell				3	TCG	Mientras esta carta permanezca activa en el campo, incrementa el ATK y DEF de los Pokemon AGUA en 300 puntos. Reduce el ATK y DEF de los Pokemon FUEGO en 300 puntos
-Dia Soleado	5DS1	Dia_Soleado	Continuous	Spell				3	TCG	Mientras esta carta permanezca activa en el campo, incrementa el ATK y DEF de los Pokemon FUEGO en 300 puntos
-Tormenta de Arena	5DS1	Tormenta_Arena	Continuous	Spell				3	TCG	Mientras esta carta se encuentre activa en el campo, los Pokemon (excepto los de tipo volador, tierra y roca) pierden 200 puntos de DEF.
-Granizo	5DS1	Granizo	Continuous	Spell				3	TCG	Mientras esta carta se encuentre activa en el campo, todos los Pokemon (excepto los de atributo AGUA) pierden 200 puntos de DEF.
+Danza Lluvia	5DS1	Danza_Lluvia	Continuous	Spell				3	TCG	Mientras esta carta permanezca activa en el campo, incrementa el ATK y DEF de los Pokemon AGUA en 300 puntos. Reduce el ATK y DEF de los Pokemon FUEGO en 300 puntos. Niega los efectos de 'Dia Soleado' y 'Tormenta de Arena' en el campo
+Dia Soleado	5DS1	Dia_Soleado	Continuous	Spell				3	TCG	Mientras esta carta permanezca activa en el campo, incrementa el ATK y DEF de los Pokemon FUEGO en 300 puntos. Niega los efectos de 'Danza Lluvia' y 'Granizo' en el campo
+Tormenta de Arena	5DS1	Tormenta_Arena	Continuous	Spell				3	TCG	La carta 'Ruinas del Desierto' debe estar activa en el campo para activar esta carta. Mientras esta carta se encuentre activa en el campo, los Pokemon (excepto los de tipo volador, tierra y roca) pierden 200 puntos de DEF.
+Granizo	5DS1	Granizo	Continuous	Spell				3	TCG	La carta 'Cueva Glaciada' debe estar activa en el campo para activar esta carta. Mientras esta carta se encuentre activa en el campo, todos los Pokemon (excepto los de atributo AGUA) pierden 200 puntos de DEF.
 Avalancha	5DS1	Avalancha	Normal	Spell				3	TCG	Debes controlar 1 Pokemon Roca para activar esta carta. Selecciona y destruye 1 Pokemon de atributo VIENTO o FUEGO en el campo del oponente 
 Poder Pasado	5DS1	Poder_Pasado	Equip	Spell				3	TCG	Equipa esta carta unicamente a Omastar, Kabutops y Aerodactyl. Cuando atacan a un Pokemon FUEGO, duplica el ATK del Pokemon equipado con esta carta.
 Proteccion	5DS1	Proteccion	Quick-play	Spell				3	TCG	Una vez por turno, cuando un Pokemon del oponente declara un ataque contra un Pokémon que controles, niegalo
@@ -296,5 +296,6 @@ Restaurar Todo	5DS1	Restaurar_Todo	Normal	Spell				3	TCG	Incrementa tus Life Poi
 Moneda Amuleto	5DS1	Moneda_Amuleto	Equip	Spell				1	TCG	Equipa esta carta a 1 Pokemon que controles. Cuando el Pokemon equipado destruye a 1 Pokemon del oponente, robas 1 carta de la parte superior de tu mazo
 Repartir Exp	5DS1	Repartir_Exp	Equip	Spell				1	TCG	Equipa esta carta a 1 Pokemon que controles. Cuando otro Pokemon en tu lado del campo destruye a 1 Pokemon del oponente, incrementa los puntos de ATK y DEF del Pokemon equipado con esta carta en un valor equivalente al nivel del Pokemon destruido x100
 Planta Feroz	5DS1	Planta_Feroz	Normal	Spell				3	TCG	Debes controlar 1 Pokemon Planta para activar esta carta. Inflige 1500 puntos de dano a los Life Points de tu oponente. No puedes declarar ataques en el turno en que es activada esta carta
+
 
 
