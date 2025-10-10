@@ -295,3 +295,5 @@ Max Pocion	5DS1	Max_Pocion	Normal	Spell				3	TCG	Incrementa tus Life Points hast
 Restaurar Todo	5DS1	Restaurar_Todo	Normal	Spell				3	TCG	Incrementa tus Life Points hasta que tengas 4000. En adicion, envia 1 carta en el campo de tu oponente cuyo efecto impida atacar o reduzca ATK y DEF
 Moneda Amuleto	5DS1	Moneda_Amuleto	Equip	Spell				1	TCG	Equipa esta carta a 1 Pokemon que controles. Cuando el Pokemon equipado destruye a 1 Pokemon del oponente, robas 1 carta de la parte superior de tu mazo
 Repartir Exp	5DS1	Repartir_Exp	Equip	Spell				1	TCG	Equipa esta carta a 1 Pokemon que controles. Cuando otro Pokemon en tu lado del campo destruye a 1 Pokemon del oponente, incrementa los puntos de ATK y DEF del Pokemon equipado con esta carta en un valor equivalente al nivel del Pokemon destruido x100
+Planta Feroz	5DS1	Planta_Feroz	Normal	Spell				3	TCG	Debes controlar 1 Pokemon Planta para activar esta carta. Inflige 1500 puntos de dano a los Life Points de tu oponente. No puedes declarar ataques en el turno en que es activada esta carta
+
