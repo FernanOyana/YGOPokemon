@@ -1,7 +1,7 @@
 Name	Set	ImageFile	Type	Attribute	Level	ATK	DEF	Limit	Format	Text
 Bulbasaur	5DS1	Bulbasaur	Planta	Tierra	4	600	900	3	TCG	Cuando esta carta destruye a 1 Pokemon, incrementa tus Life Points en un valor equivalente a la diferencia entre los puntos de ATK de ambas cartas.
 Ivysaur	5DS1	Ivysaur	Planta	Tierra	5	1200	1600	3	TCG	Cuando esta carta es invocada de forma normal con exito, anade 1 'Paralizador' de tu mazo a tu mano. Mezcla el mazo.
-Venusaur	5DS1	Venusaur	Planta	Tierra	7	1800	2000	3	TCG	En cada una de tus standby phases, mientras esta carta permanezca en tu lado del campo, incrementa tus Life Points en 500 puntos.
+Venusaur	5DS1	Venusaur	Planta	Tierra	7	1950	2000	3	TCG	En cada una de tus standby phases, mientras esta carta permanezca en tu lado del campo, incrementa tus Life Points en 500 puntos.
 Charmander	5DS1	Charmander	Fuego	Fuego	4	800	500	3	TCG	Durante la fase de batalla de tu turno, si tus Life Points son 2000 o menos, duplica el ATK de esta carta.
 Charmeleon	5DS1	Charmeleon	Fuego	Fuego	5	1500	1200	3	TCG	Cuando esta carta declara un ataque, antes del calculo de dano, reduce el ATK del objetivo en 300 puntos.
 Charizard	5DS1	Charizard	Fuego	Viento	7	2000	1800	3	TCG	Esta carta no puede ser seleccionada por ataques de Pokemon Tierra. Cuando esta carta es invocada de forma normal con exito, reduce el ATK de todos los Pokemon del oponente en 600 puntos. Una vez por turno, durante tu Main Phase, puedes anadir 1 'Llamarada' de tu mazo a tu mano. Mezcla el mazo
