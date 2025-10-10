@@ -296,3 +296,4 @@ general/Wigglytuff.jpg	https://raw.githubusercontent.com/FernanOyana/YGOPokemon/
 general/Zapdos.jpg	https://raw.githubusercontent.com/FernanOyana/YGOPokemon/refs/heads/main/Zapdos.jpg
 general/Zubat.jpg	https://raw.githubusercontent.com/FernanOyana/YGOPokemon/refs/heads/main/Zubat.jpg
 general/cardback.jpg	https://raw.githubusercontent.com/FernanOyana/YGOPokemon/refs/heads/main/cardback.jpg
+general/Planta_Feroz.jpg  https://raw.githubusercontent.com/FernanOyana/YGOPokemon/refs/heads/main/Planta_Feroz.jpg
