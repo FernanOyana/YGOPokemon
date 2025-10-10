@@ -58,7 +58,6 @@
 <phase><label>Battle:Start</label></phase>
 <phase><label>Battle:Battle</label></phase>
 <phase><label>Battle:Damage</label></phase>
-<phase><label>Battle:End</label></phase>
 <phase><label>End</label></phase>
 
 <generalfunction><label>Draw</label><kind>DRAWCARD</kind><includeasbutton>yes</includeasbutton></generalfunction>
