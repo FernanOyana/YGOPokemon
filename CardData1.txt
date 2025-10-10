@@ -1,6 +1,6 @@
 Name	Set	ImageFile	Type	Attribute	Level	ATK	DEF	Limit	Format	Text
 Bulbasaur	5DS1	Bulbasaur	Planta	Tierra	4	600	900	3	TCG	Cuando esta carta destruye a 1 Pokemon, incrementa tus Life Points en un valor equivalente a la diferencia entre los puntos de ATK de ambas cartas.
-Ivysaur	5DS1	Ivysaur	Planta	Tierra	5	1200	1600	3	TCG	Cuando esta carta es invocada de forma normal con exito, anade 1 'Paralizador' de tu mazo a tu mano. Mezcla el mazo.
+Ivysaur	5DS1	Ivysaur	Planta	Tierra	5	1200	1600	3	TCG	Cuando esta carta es invocada de forma normal con exito, anade 1 'Paralizador' de tu mazo a tu mano. Mezcla el mazo. Si la carta 'Dia Soleado' se encuentra activa en el campo, duplica el ATK de esta carta
 Venusaur	5DS1	Venusaur	Planta	Tierra	7	1950	2000	3	TCG	En cada una de tus standby phases, mientras esta carta permanezca en tu lado del campo, incrementa tus Life Points en 500 puntos.
 Charmander	5DS1	Charmander	Fuego	Fuego	4	800	500	3	TCG	Durante la fase de batalla de tu turno, si tus Life Points son 2000 o menos, duplica el ATK de esta carta.
 Charmeleon	5DS1	Charmeleon	Fuego	Fuego	5	1500	1200	3	TCG	Cuando esta carta declara un ataque, antes del calculo de dano, reduce el ATK del objetivo en 300 puntos.
@@ -296,6 +296,7 @@ Restaurar Todo	5DS1	Restaurar_Todo	Normal	Spell				3	TCG	Incrementa tus Life Poi
 Moneda Amuleto	5DS1	Moneda_Amuleto	Equip	Spell				1	TCG	Equipa esta carta a 1 Pokemon que controles. Cuando el Pokemon equipado destruye a 1 Pokemon del oponente, robas 1 carta de la parte superior de tu mazo
 Repartir Exp	5DS1	Repartir_Exp	Equip	Spell				1	TCG	Equipa esta carta a 1 Pokemon que controles. Cuando otro Pokemon en tu lado del campo destruye a 1 Pokemon del oponente, incrementa los puntos de ATK y DEF del Pokemon equipado con esta carta en un valor equivalente al nivel del Pokemon destruido x100
 Planta Feroz	5DS1	Planta_Feroz	Normal	Spell				3	TCG	Debes controlar 1 Pokemon Planta para activar esta carta. Inflige 1500 puntos de dano a los Life Points de tu oponente. No puedes declarar ataques en el turno en que es activada esta carta
+
 
 
 
