@@ -42,11 +42,6 @@
 	<visibletoothers>yes</visibletoothers>
 </gamezone>
 <gamezone>
-	<label>Extra</label>
-	<visibletoowner>yes</visibletoowner>
-	<visibletoothers>no</visibletoothers>
-</gamezone>
-<gamezone>
 	<label>Side Deck</label>
 	<visibletoowner>yes</visibletoowner>
 	<visibletoothers>no</visibletoothers>
@@ -54,7 +49,7 @@
 
 <phase><label>Draw</label></phase>
 <phase><label>Standby</label></phase>
-<phase><label>Main 1</label></phase>
+<phase><label>Main</label></phase>
 <phase><label>Battle:Start</label></phase>
 <phase><label>Battle:Battle</label></phase>
 <phase><label>Battle:Damage</label></phase>
