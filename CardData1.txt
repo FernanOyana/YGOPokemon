@@ -121,7 +121,7 @@ Seaking	5DS1	Seaking	Agua	Agua	5	1500	1400	3	TCG	Esta carta no puede ser selecci
 Staryu	5DS1	Staryu	Agua	Agua	3	700	600	3	TCG	Volteo: roba 2 cartas de la parte superior de tu mazo
 Starmie	5DS1	Starmie	Agua	Agua	5	1600	900	3	TCG	Esta carta solo puede ser invocada por el efecto de "Piedra Agua"  y enviando al Cementerio 1 'Staryu' en tu lado del campo. Cuando es invocada con exito, anade 1 'Giro Rapido' de tu mazo a tu mano. Mezcla el mazo. Durante cada una de las Standby Phases de tu turno, mientras esta carta permanezca boca arriba en tu lado del campo, incrementa tus Life Points en un valor equivalente a la mitad de tus Life Points actuales
 Mr. Mime	5DS1	MrMime	Psiquico	Luz	4	1600	1500	3	TCG	Mientras esta carta permanezca boca arriba en tu lado del campo, incrementa la DEF de todos los Pokemon que controles en 500 puntos
-Scyther	5DS1	Scyther	Bicho	Viento	4	1500	1400	3	TCG	Durante la Battle Phase de tu turno, aumenta el ATK de esta carta en 500 puntos
+Scyther	5DS1	Scyther	Bicho	Viento	4	1500	1400	3	TCG	Durante la Battle Phase de tu turno, cuando esta carta ataca a 1 Pokemon, aumenta su ATK en 500 puntos
 Jynx	5DS1	Jynx	Hielo	Luz	4	1600	1000	3	TCG	Selecciona 1 Pokemon que el oponente controla. Durante el proximo turno, el Pokemon seleccionado solo podra atacar a objetivos controlados por el oponente
 Electabuzz	5DS1	Electabuzz	Electrico	Luz	4	1550	1200	3	TCG	Cuando esta carta es declarada como objetivo de un ataque, despues del calculo de dano, el Pokemon atacante no podra atacar por los siguientes 3 turnos
 Magmar	5DS1	Magmar	Fuego	Fuego	4	1400	1300	3	TCG	Cuando esta carta es declarada como objetivo de un ataque, despues del calculo de dano, el Pokemon atacante pierde 500 puntos de ATK
@@ -296,6 +296,7 @@ Restaurar Todo	5DS1	Restaurar_Todo	Normal	Spell				3	TCG	Incrementa tus Life Poi
 Moneda Amuleto	5DS1	Moneda_Amuleto	Equip	Spell				1	TCG	Equipa esta carta a 1 Pokemon que controles. Cuando el Pokemon equipado destruye a 1 Pokemon del oponente, robas 1 carta de la parte superior de tu mazo
 Repartir Exp	5DS1	Repartir_Exp	Equip	Spell				1	TCG	Equipa esta carta a 1 Pokemon que controles. Cuando otro Pokemon en tu lado del campo destruye a 1 Pokemon del oponente, incrementa los puntos de ATK y DEF del Pokemon equipado con esta carta en un valor equivalente al nivel del Pokemon destruido x100
 Planta Feroz	5DS1	Planta_Feroz	Normal	Spell				3	TCG	Debes controlar 1 Pokemon Planta para activar esta carta. Inflige 1500 puntos de dano a los Life Points de tu oponente. No puedes declarar ataques en el turno en que es activada esta carta
+
 
 
 
