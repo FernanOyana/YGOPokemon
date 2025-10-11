@@ -146,7 +146,7 @@ Articuno	5DS1	Articuno	Hielo	Viento	7	2000	1700	1	TCG	Esta carta no puede ser in
 Zapdos	5DS1	Zapdos	Electrico	Viento	7	2400	1600	1	TCG	Esta carta no puede ser invocada de forma normal. No puede ser seleccionada por ataques de Pokemon Tierra. Mientras esta carta se encuentre boca arriba en el campo, los Pokemon Electricos que el oponente controla solo pueden seleccionar esta carta como objetivo de ataque
 Moltres	5DS1	Moltres	Fuego	Viento	7	2200	1500	1	TCG	Esta carta no puede ser invocada de forma normal. No puede ser seleccionada por ataques de Pokemon Tierra. Cuando esta carta es declarada como objetivo de un ataque, reduce el ATK del Pokemon atacante en 800 puntos
 Dratini	5DS1	Dratini	Dragon	Agua	2	200	500	3	TCG	Cuando esta carta es seleccionada por cartas magicas/trampa que impidan atacar, cambiar posicion de batalla o activar efectos, duplica su DEF
-Dragonair	5DS1	Dragonair	Dragon	Agua	5	1600	1400	3	TCG	Mientras esta carta se encuentre boca arriba en el campo, los efectos que reducen ATK y DEF o impiden atacar son negados
+Dragonair	5DS1	Dragonair	Dragon	Agua	5	1700	1500	3	TCG	Mientras esta carta se encuentre boca arriba en el campo, los efectos que reducen ATK y DEF o impiden atacar son negados
 Dragonite	5DS1	Dragonite	Dragon	Viento	7	2500	2200	3	TCG	Esta carta no puede ser seleccionada por ataques de Pokemon Tierra. No puede ser seleccionada por efectos que impidan atacar. Cuando es invocada con exito, anade 1 'Furia Dragon' de tu mazo a tu mano. Mezcla el mazo
 Mewtwo	5DS1	Mewtwo	Psíquico	Oscuridad	8	2800	1600	1	TCG	Esta carta no puede ser invocada de forma normal. No puede ser destruida como resultado de una batalla. En cada una de tus Standby Phases, incrementa tus Life Points en 1000 puntos
 Mew 	5DS1	Mew	Psíquico	Luz	8	2300	1700	1	TCG	Esta carta no puede ser invocada de forma normal. No puede ser destruida como resultado de una batalla. Una vez por turno, durante tu Main Phase, selecciona 1 Pokemon que el oponente controla: copia su Atributo. Cualquier efecto de Pokemon aplicado en esta carta que reduzca ATK/DEF e impida atacar, es aplicado en la carta de Pokemon que lo activo.
@@ -296,6 +296,7 @@ Restaurar Todo	5DS1	Restaurar_Todo	Normal	Spell				3	TCG	Incrementa tus Life Poi
 Moneda Amuleto	5DS1	Moneda_Amuleto	Equip	Spell				1	TCG	Equipa esta carta a 1 Pokemon que controles. Cuando el Pokemon equipado destruye a 1 Pokemon del oponente, robas 1 carta de la parte superior de tu mazo
 Repartir Exp	5DS1	Repartir_Exp	Equip	Spell				1	TCG	Equipa esta carta a 1 Pokemon que controles. Cuando otro Pokemon en tu lado del campo destruye a 1 Pokemon del oponente, incrementa los puntos de ATK y DEF del Pokemon equipado con esta carta en un valor equivalente al nivel del Pokemon destruido x100
 Planta Feroz	5DS1	Planta_Feroz	Normal	Spell				3	TCG	Debes controlar 1 Pokemon Planta para activar esta carta. Inflige 1500 puntos de dano a los Life Points de tu oponente. No puedes declarar ataques en el turno en que es activada esta carta
+
 
 
 
