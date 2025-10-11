@@ -242,7 +242,7 @@ Lider Blaine	5DS1	Lider_Blaine	Normal	Spell				1	TCG	Busca en tu mazo 1 Pokemon 
 Lider Giovanni	5DS1	Lider_Giovanni	Normal	Spell				1	TCG	Busca en tu mazo 1 Pokemon Tierra y anadelo a tu mano. Mezcla el mazo. Hasta el final del turno, cuando 1 Pokemon Tierra que controlas destruye 1 Pokemon, tu oponente envia 2 cartas de su zona de cartas magicas/trampa al Cementerio. En adicion, puedes anadir 1 'Terremoto' de tu mazo a tu mano. Mezcla el mazo
 Alto Mando Lorelei	5DS1	Alto_Mando_Lorelei	Normal	Spell				1	TCG	Busca en tu mazo 1 Pokemon Hielo y anadelo a tu mano. Mezcla el mazo. Durante el turno en el que es activada esta carta, puedes invocar hasta 2 Pokemon Hielo de tu mano de forma normal
 Alto Mando Bruno	5DS1	Alto_Mando_Bruno	Normal	Spell				1	TCG	Busca en tu mazo 1 Pokemon Lucha y anadelo a tu mano. Mezcla el mazo. Hasta el final del turno puedes invocar, desde tu mano, Pokemon Lucha de nivel 7 con un sacrificio menos
-Alto Mando Agatha	5DS1	Alto_Mando_Agatha	Normal	Spell				1	TCG	Busca en tu mazo 1 Pokemon Fantasma y anadelo a tu mano. Mezcla el mazo. Hasta el final del turno puedes invocar, desde tu mano, Pokemon Lucha de nivel 7 con un sacrificio menos. 
+Alto Mando Agatha	5DS1	Alto_Mando_Agatha	Normal	Spell				1	TCG	Busca en tu mazo 1 Pokemon Fantasma y anadelo a tu mano. Mezcla el mazo. Hasta el final del turno puedes invocar, desde tu mano, Pokemon Fantasma de nivel 7 con un sacrificio menos. 
 Alto Mando Lance	5DS1	Alto_Mando_Lance	Normal	Spell				1	TCG	Busca en tu mazo 1 Pokemon Dragon y anadelo a tu mano. Mezcla el mazo. Hasta el final del turno puedes invocar, desde tu mano, Pokemon Dragon de nivel 7 con un sacrificio menos. Cuando invocas 1 Pokemon Dragon, tu oponente descarta toda su mano
 Cazabichos	5DS1	Cazabichos	Normal	Spell				3	TCG	Mira las 3 primeras cartas de la parte superior de tu mazo. Si hay 1 Pokemon Bicho, anadelo a tu mano y regresa el resto de las cartas en el orden original
 Joven	5DS1	Joven	Normal	Spell				3	TCG	Mira las 3 primeras cartas de la parte superior de tu mazo. Si hay 1 Pokemon Normal o Veneno, anadelo a tu mano y regresa el resto de las cartas en el orden original
@@ -296,6 +296,7 @@ Restaurar Todo	5DS1	Restaurar_Todo	Normal	Spell				3	TCG	Incrementa tus Life Poi
 Moneda Amuleto	5DS1	Moneda_Amuleto	Equip	Spell				1	TCG	Equipa esta carta a 1 Pokemon que controles. Cuando el Pokemon equipado destruye a 1 Pokemon del oponente, robas 1 carta de la parte superior de tu mazo
 Repartir Exp	5DS1	Repartir_Exp	Equip	Spell				1	TCG	Equipa esta carta a 1 Pokemon que controles. Cuando otro Pokemon en tu lado del campo destruye a 1 Pokemon del oponente, incrementa los puntos de ATK y DEF del Pokemon equipado con esta carta en un valor equivalente al nivel del Pokemon destruido x100
 Planta Feroz	5DS1	Planta_Feroz	Normal	Spell				3	TCG	Debes controlar 1 Pokemon Planta para activar esta carta. Inflige 1500 puntos de dano a los Life Points de tu oponente. No puedes declarar ataques en el turno en que es activada esta carta
+
 
 
 
