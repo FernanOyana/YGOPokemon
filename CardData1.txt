@@ -5,7 +5,7 @@ Venusaur	5DS1	Venusaur	Planta	Tierra	7	1950	2000	3	TCG	En cada una de tus standb
 Charmander	5DS1	Charmander	Fuego	Fuego	4	800	500	3	TCG	Durante la fase de batalla de tu turno, si tus Life Points son 2000 o menos, duplica el ATK de esta carta.
 Charmeleon	5DS1	Charmeleon	Fuego	Fuego	5	1500	1200	3	TCG	Cuando esta carta declara un ataque, antes del calculo de dano, reduce el ATK del objetivo en 300 puntos.
 Charizard	5DS1	Charizard	Fuego	Viento	7	2000	1800	3	TCG	Esta carta no puede ser seleccionada por ataques de Pokemon Tierra. Cuando esta carta es invocada de forma normal con exito, reduce el ATK de todos los Pokemon del oponente en 600 puntos. Una vez por turno, durante tu Main Phase, puedes anadir 1 'Llamarada' de tu mazo a tu mano. Mezcla el mazo
-Squirtle	5DS1	Squirtle	Agua	Agua	4	700	1100	3	TCG	Durante la fase de batalla del turno de cualquier jugador, puedes cambiar esta carta a posicion de DEF.
+Squirtle	5DS1	Squirtle	Agua	Agua	4	700	800	3	TCG	Durante la fase de batalla del turno de cualquier jugador, puedes cambiar esta carta a posicion de DEF.
 Wartortle	5DS1	Wartortle	Agua	Agua	5	1550	1600	3	TCG	Si 'Danza lluvia' se encuentra activa en el campo, en cada una de tus Standby Phases incrementa tus Life Points en 200 puntos.
 Blastoise	5DS1	Blastoise	Agua	Agua	7	1900	2500	3	TCG	Mientras controles esta carta, incrementa en 300 puntos el ATK de los Pokemon de Agua en tu lado del campo.
 Caterpie	5DS1	Caterpie	Bicho	Tierra	2	200	100	3	TCG	Tiene la piel de color verde. Cuando la muda, se recubre de seda y se convierte en capullo
@@ -25,7 +25,7 @@ Ekans	5DS1	Ekans	Veneno	Tierra	3	700	500	3	TCG	Cuando esta carta es invocada de 
 Arbok	5DS1	Arbok	Veneno	Tierra	5	1600	1400	3	TCG	Una vez por turno, selecciona 1 carta de Pokemon que el oponente controla y cambiala a posicion de defensa.  
 Pikachu	5DS1	Pikachu	Electrico	Luz	4	1100	900	3	TCG	Durante la fase de batalla de tu turno, antes del cálculo de dano, si esta carta batalla contra un Pokemon de Agua o Viento, duplica su ATK.
 Raichu	5DS1	Raichu	Electrico	Luz	5	1600	1500	3	TCG	Esta carta solo puede ser invocada por el efecto de "Piedra Trueno". Cuando es invocada con exito, anade 1 "Rayo" de tu mazo a tu mano. Mezcla el mazo.
-Sandshrew	5DS1	Sandshrew	Tierra	Tierra	4	900	1200	3	TCG	Esta carta no puede ser destruida en batalla por Pokemon Electricos. Si 'Tormenta de Arena' se encuentra activa en el campo, esta carta no puede ser destruida como resultado de una batalla
+Sandshrew	5DS1	Sandshrew	Tierra	Tierra	4	900	800	3	TCG	Esta carta no puede ser destruida en batalla por Pokemon Electricos. Si 'Tormenta de Arena' se encuentra activa en el campo, esta carta no puede ser destruida como resultado de una batalla
 Sandslash	5DS1	Sandslash	Tierra	Tierra	5	1600	1700	3	TCG	Esta carta no puede ser destruida en batalla por Pokemon Electricos. Cuando esta carta declara un ataque, antes del calculo de dano, reduce la DEF del objetivo en 500 puntos
 Nidoran Hembra	5DS1	Nidoran_Hembra	Veneno	Tierra	3	600	500	3	TCG	Incrementa la DEF de esta carta en 300 puntos por cada "Nidoran macho" en tu lado del campo.
 Nidorina	5DS1	Nidorina	Veneno	Tierra	5	1550	1600	3	TCG	Cuando esta carta es invocada de forma normal, invoca de forma especial 1 "Nidoran hembra" de tu mano.
