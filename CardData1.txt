@@ -168,7 +168,7 @@ Onda Trueno	5DS1	Onda_Trueno	Continuous	Trap				3	TCG	Debes controlar 1 Pokemon 
 Fuego Fatuo	5DS1	Fuego_Fatuo	Continuous	Trap				3	TCG	Debes controlar 1 Pokemon Fantasma. Selecciona 1 Pokemon boca arriba que controle tu oponente. Éste pierde 400 puntos de ATK durante cada una de las Standby Phases de tu oponente.
 Canto 	5DS1	Canto	Continuous	Trap				3	TCG	Debes controlar a 'Jigglypuff' o 'Wigglytuff' para activar esta carta. Selecciona 1 Pokemon boca arriba que controle tu oponente. No podrá atacar, cambiar su posicion de batalla o activar efectos. Cuando el Pokemon es destruido, envia esta carta al Cementerio
 Rayo Hielo	5DS1	Rayo_Hielo	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon Hielo. Cuando batalla contra 1 Pokemon Dragon, volador o tierra, duplica su ATK
-Llamarada	5DS1	Llamarada	Normal	Spell				3	TCG	Incrementa el ATK de un Pokemon FUEGO en 1000 puntos hasta el final del turno en el que es activada esta carta
+Llamarada	5DS1	Llamarada	Normal	Spell				3	TCG	Incrementa el ATK de un Pokemon de Fuego en 1000 puntos hasta el final del turno en el que es activada esta carta
 Hidrobomba	5DS1	Hidrobomba	Normal	Spell				3	TCG	Incrementa el ATK de un Pokemon AGUA en 1000 puntos hasta el final del turno en el que es activada esta carta
 Terremoto	5DS1	Terremoto	Normal	Spell				3	TCG	Debes controlar 1 Pokemon Tierra para activar esta carta. Destruye todas las cartas de Pokemon en el campo. Los Pokemon de VIENTO no pueden ser seleccionados por este efecto
 Hiperrayo	5DS1	Hiperrayo	Normal	Spell				3	TCG	Debes controlar a 'Dragonite' para activar esta carta: incrementa su ATK en 1000 puntos hasta el final del turno. La carta seleccionada no podra declarar ataques durante tu proximo turno.
@@ -217,7 +217,7 @@ Mapa	5DS1	Mapa	Normal	Spell				1	TCG	Anade 1 carta magica de campo de tu mazo a 
 Scope Silph	5DS1	Scope_Silph	Normal	Spell				1	TCG	La carta 'Torre Pokemon' debe estar activa en el campo. Mira las 3 primeras cartas de tu mazo. Si hay 1 Pokemon Fantasma, anadelo a tu mano
 Bosque Verde	5DS1	Bosque_Verde	Field	Spell				3	TCG	Todos los Pokemon Bicho y Planta ganan 200 puntos de ATK y DEF.
 Mt. Moon	5DS1	Mt_Moon	Field	Spell				3	TCG	Todos los Pokemon Roca ganan 200 puntos de ATK y DEF.
-Mt. Ascuas	5DS1	Mt_Ascuas	Field	Spell				3	TCG	Todos los Pokemon de FUEGO ganan 200 puntos de ATK y DEF.
+Mt. Ascuas	5DS1	Mt_Ascuas	Field	Spell				3	TCG	Todos los Pokemon Fuego ganan 200 puntos de ATK y DEF.
 Cueva Glaciada	5DS1	Cueva_Glaciada	Field	Spell				3	TCG	Todos los Pokemon Hielo y Agua ganan 200 puntos de ATK y DEF, y ademas los Pokemon Fuego, Tierra y Roca pierden 200 puntos de ATK y DEF
 Cueva Perdida	5DS1	Cueva_Perdida	Field	Spell				3	TCG	Todos los Pokemon Fantasma ganan 400 puntos de ATK y DEF.
 Islas Espuma	5DS1	Islas_Espuma	Field	Spell				3	TCG	Todos los Pokemon Agua ganan 300 puntos de ATK y DEF, y ademas los Pokemon Fuego, Tierra y Roca pierden 300 puntos de ATK y DEF
