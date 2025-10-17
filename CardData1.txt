@@ -80,7 +80,7 @@ Rapidash	5DS1	Rapidash	Fuego	Fuego	6	1600	1400	3	TCG	Cuando esta carta es invoca
 Slowpoke	5DS1	Slowpoke	Agua	Agua	3	400	600	3	TCG	Volteo: selecciona 1 Pokemon del oponente. Por 3 turnos, no podra atacar, activar efectos o cambiar su posicion de batalla
 Slowbro	5DS1	Slowbro	Agua	Agua	5	1100	1500	3	TCG	Una vez por turno, durante tu Standby Phase, paga 500 Life Points. Aumenta el ATK y la DEF de esta carta en 250 puntos
 Magnemite	5DS1	Magnemite	Electrico	Luz	3	500	700	3	TCG	Cuando esta carta es invocada con exito, invoca 1 'Magnemite' desde tu mano.
-Magneton	5DS1	Magneton	Electrico	Luz	6	1600	1400	3	TCG	Esta carta solo puede ser invocada de forma especial enviando 3 'Magnemite' de tu Campo al Cementerio. Una vez por turno, durante tu Main Phase, selecciona 1 Pokemon del oponente: hasta el final del turno, el Pokemon no podra activar efectos que impidan atacar ni ser seleccionado por cartas que cancelen ataques
+Magneton	5DS1	Magneton	Electrico	Luz	6	1750	1400	3	TCG	Esta carta solo puede ser invocada de forma especial enviando 3 'Magnemite' de tu Campo al Cementerio. Una vez por turno, durante tu Main Phase, selecciona 1 Pokemon del oponente: hasta el final del turno, el Pokemon no podra activar efectos que impidan atacar ni ser seleccionado por cartas que cancelen ataques
 Farfetch'd	5DS1	Farfetchd	Volador	Viento	3	700	650	3	TCG	Cuando esta carta es invocada de forma normal con exito, anade 1 'Puerro' de tu mazo a tu mano. Mezcla el mazo
 Doduo	5DS1	Doduo	Volador	Viento	3	800	600	3	TCG	Este Pokemon de dos cabezas es el resultado de una mutacion. Cuando corre, puede alcanzar casi 100 km por hora
 Dodrio	5DS1	Dodrio	Volador	Viento	5	1700	1500	3	TCG	Cuando esta carta ataca a 1 Pokemon en posición de defensa, inflige dano de penetracion
@@ -296,6 +296,7 @@ Restaurar Todo	5DS1	Restaurar_Todo	Normal	Spell				3	TCG	Incrementa tus Life Poi
 Moneda Amuleto	5DS1	Moneda_Amuleto	Equip	Spell				1	TCG	Equipa esta carta a 1 Pokemon que controles. Cuando el Pokemon equipado destruye a 1 Pokemon del oponente, robas 1 carta de la parte superior de tu mazo
 Repartir Exp	5DS1	Repartir_Exp	Equip	Spell				1	TCG	Equipa esta carta a 1 Pokemon que controles. Cuando otro Pokemon en tu lado del campo destruye a 1 Pokemon del oponente, incrementa los puntos de ATK y DEF del Pokemon equipado con esta carta en un valor equivalente al nivel del Pokemon destruido x100
 Planta Feroz	5DS1	Planta_Feroz	Normal	Spell				3	TCG	Debes controlar 1 Pokemon Planta para activar esta carta. Inflige 1500 puntos de dano a los Life Points de tu oponente. No puedes declarar ataques en el turno en que es activada esta carta
+
 
 
 
