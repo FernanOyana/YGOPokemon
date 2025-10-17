@@ -206,7 +206,7 @@ Furia Dragon	5DS1	Furia_Dragon	Quick-play	Spell				3	TCG	Selecciona 1 Pokemon Dr
 Supercana	5DS1	Supercana	Normal	Spell				3	TCG	Busca en tu mazo 1 Pokemon de AGUA y anadelo a tu mano. Mezcla el mazo
 Buscaobjetos	5DS1	Buscaobjetos	Normal	Spell				3	TCG	Busca en tu mazo 1 carta Magica de Equipo y anadela a tu mano. Mezcla el mazo
 Ocaso Ball	5DS1	Ocaso_Ball	Normal	Spell				3	TCG	Invoca de forma especial, desde tu mano, 1 Pokemon de OSCURIDAD de nivel 4 o inferior. Si hay 1 carta magica de campo cuyo nombre incluye 'Cueva', puedes invocar 1 Pokemon de nivel 5 o 6
-Nido Ball	5DS1	Nido_Ball	Normal	Spell				3	TCG	Invoca de forma especial, desde tu mazo, 1 Pokemon de nivel 2 o inferior. 
+Nido Ball	5DS1	Nido_Ball	Normal	Spell				3	TCG	Invoca de forma especial, desde tu mazo, 1 Pokemon de nivel 3 o inferior. 
 Acopio Ball	5DS1	Acopio_Ball	Normal	Spell				3	TCG	Invoca de forma especial, desde tu mazo, 1 Pokemon con el mismo nombre que un Pokemon boca arriba que controles
 Proteina	5DS1	Proteina	Normal	Spell				3	TCG	Incrementa el ATK de un Pokemon que controles en 600 puntos hasta que abandone el campo 
 Hierro	5DS1	Hierro	Normal	Spell				3	TCG	Incrementa la DEF de un Pokemon que controles en 600 puntos hasta que abandone el campo 
