@@ -195,7 +195,7 @@ Ambar Viejo	5DS1	Ambar_Viejo	Normal	Spell				1	TCG	Invoca de forma especial, des
 Caramelo Raro	5DS1	Caramelo_Raro	Normal	Spell				3	TCG	Selecciona 1 Pokemon que controles. Durante el turno en el que es activada esta carta, el Pokemon puede ser usado como 2 sacrificios para invocar 1 Pokemon de nivel 7 o mayor de su misma linea evolutiva
 Rayo	5DS1	Rayo	Normal	Spell				2	TCG	Debes controlar 1 Pokemon Electrico. Selecciona y destruye todos los Pokemon de AGUA o VIENTO que tu oponente controle
 Psiquico	5DS1	Psiquico	Normal	Spell				3	TCG	Selecciona 1 Pokemon Psiquico que controles. Incrementa su ATK en 900 puntos hasta el final del turno
-Reflejo	5DS1	Reflejo	Continuous	Spell				3	TCG	Mientras esta carta se encuentre activa en el campo, duplica la DEF de todos los Pokemon que controles
+Reflejo	5DS1	Reflejo	Continuous	Spell				3	TCG	Debes controlar 1 Pokemon nivel 4 o superior para activar esta carta. Mientras se encuentre activa en el campo, duplica la DEF original de todos los Pokemon que controles
 Puno Fuego	5DS1	Puno_Fuego	Equip	Spell				3	TCG	Equipa esta carta a 'Hitmonchan'. Cuando batalla contra 1 Pokemon Planta, Acero, Hielo o Bicho, duplica su ATK hasta el final de la Battle Phase
 Puno Trueno	5DS1	Puno_Trueno	Equip	Spell				3	TCG	Equipa esta carta a 'Hitmonchan'. Cuando batalla contra 1 Pokemon de AGUA o VIENTO, duplica su ATK hasta el final de la Battle Phase
 Puno Hielo	5DS1	Puno_Hielo	Equip	Spell				3	TCG	Equipa esta carta a 'Hitmonchan'. Cuando batalla contra 1 Pokemon Planta, Dragon, Tierra o Volador, duplica su ATK hasta el final de la Battle Phase
@@ -264,7 +264,7 @@ Sistema de Almacenamiento Pokemon	5DS1	Sistema_Almacenamiento_Pokemon	Normal	Spe
 Maquina de Intercambio	5DS1	Maquina_Intercambio	Normal	Spell				3	TCG	Tu y tu oponente eligen 1 carta de Pokemon de sus respectivas manos y la entregan al jugador contrario
 Centro Pokemon	5DS1	Centro_Pokemon	Normal	Spell				3	TCG	Devuelve a tu mazo, desde tu Cementerio, hasta 6 cartas de Pokemon. Mezcla el mazo
 Contador	5DS1	Contador	Normal	Trap				3	TCG	Puedes activar esta carta cuando 1 Pokemon de tu oponente declara un ataque contra 1 Pokemon que controles en posicion de ataque: el oponente recibe dano directo equivalente a la diferencia de dano efectuada
-Barrera	5DS1	Barrera	Continuous	Spell				2	TCG	Debes controlar 1 Pokemon de nivel 5 o superior. Mientras esta carta permanezca activa en el campo, duplica la DEF original de todos los Pokemon que controlas
+Barrera	5DS1	Barrera	Continuous	Spell				2	TCG	Puedes activar esta carta cuando 1 Pokemon de nivel 5 o superior que controlas es declarado como objetivo de ataque: duplica su DEF original hasta el final del turno
 Pantalla Luz	5DS1	Pantalla_Luz	Quick-play	Spell				2	TCG	Reduce a la mitad todo el dano de batalla infligido por Pokemon del oponente hasta el final del turno en el que es activada esta carta
 Movimiento Sismico	5DS1	Movimiento_Sismico	Equip	Spell				3	TCG	Selecciona 1 Pokemon Lucha. Cuando batalla contra 1 Pokemon, incrementa su ATK en un valor equivalente al nivel del objetivo x200 puntos hasta el final del turno
 Demolicion	5DS1	Demolicion	Normal	Spell				3	TCG	Selecciona y destruye todas las cartas de 'Pantalla Luz' y 'Reflejo' activas en el campo del oponente
