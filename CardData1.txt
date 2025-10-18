@@ -268,7 +268,7 @@ Barrera	5DS1	Barrera	Continuous	Spell				2	TCG	Puedes activar esta carta cuando 
 Pantalla Luz	5DS1	Pantalla_Luz	Quick-play	Spell				2	TCG	Reduce a la mitad todo el dano de batalla infligido por Pokemon del oponente hasta el final del turno en el que es activada esta carta
 Movimiento Sismico	5DS1	Movimiento_Sismico	Equip	Spell				3	TCG	Selecciona 1 Pokemon Lucha. Cuando batalla contra 1 Pokemon, incrementa su ATK en un valor equivalente al nivel del objetivo x200 puntos hasta el final del turno
 Demolicion	5DS1	Demolicion	Normal	Spell				3	TCG	Selecciona y destruye todas las cartas de 'Pantalla Luz' y 'Reflejo' activas en el campo del oponente
-Paz Mental	5DS1	Paz_Mental	Normal	Spell				3	TCG	Selecciona 1 Pokemon Psiquico que controles. Incrementa su ATK y DEF en 300 puntos
+Paz Mental	5DS1	Paz_Mental	Equip	Spell				3	TCG	Selecciona 1 Pokemon Psiquico que controles. Incrementa su ATK y DEF en 300 puntos
 Sustituto	5DS1	Sustituto	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon que controles. Si el Pokemon fuera a ser destruido (en batalla o por efectos), destruye esta carta en su lugar
 Corpulencia	5DS1	Corpulencia	Equip	Spell				3	TCG	Selecciona 1 Pokemon Lucha que controles. Gana 600 puntos de ATK y DEF
 Sofoco	5DS1	Sofoco	Normal	Spell				3	TCG	Debes controlar 1 Pokemon Fuego para activar esta carta. Descarta 2 cartas de tu mano. Selecciona y destruye 1 Pokemon del oponente e inflige dano directo a los Life Points del oponente en un valor equivalente al ATK del Pokemon seleccionado
