@@ -65,7 +65,7 @@ Abra	5DS1	Abra	Psiquico	Luz	2	0	500	3	TCG	Cuando esta carta es declarada como ob
 Kadabra	5DS1	Kadabra	Psiquico	Luz	5	1600	1000	3	TCG	Esta carta no puede ser seleccionada por efectos que impidan atacar
 Alakazam	5DS1	Alakazam	Psiquico	Luz	7	2500	1500	3	TCG	Cuando esta carta es invocada de forma normal con éxito, puedes anadir 1 'Psiquico' de tu mazo a tu mano. Mezcla el mazo. Mientras esta carta permanezca boca arriba en el campo, tu oponente no puede activar efectos que inflijan dano directo a tus Life Points
 Machop	5DS1	Machop	Lucha	Tierra	4	1200	1000	3	TCG	Cuando esta carta batalla contra 1 Pokemon Roca, duplica su ATK hasta el final del turno
-Machoke	5DS1	Machoke	Lucha	Tierra	5	1700	1800	3	TCG	una vez por turno, durante la fase de batalla de tu turno, aumenta el ATK de esta carta en 700 puntos
+Machoke	5DS1	Machoke	Lucha	Tierra	5	1700	1800	3	TCG	Durante la Battle Phase de tu turno, aumenta el ATK de esta carta en 300 puntos hasta el final del turno.
 Machamp	5DS1	Machamp	Lucha	Tierra	7	2000	1900	3	TCG	Cuando esta carta ataca a 1 Pokemon en posicion de defensa, reduce la DEF del objetivo en 500 puntos
 Bellsprout	5DS1	Bellsprout	Planta	Tierra	4	600	400	3	TCG	Si la carta 'Dia Soleado' se encuentra activa en el campo, puedes invocar esta carta de forma especial
 Weepinbell	5DS1	Weepinbell	Planta	Tierra	5	1200	900	3	TCG	Cuando esta carta es invocada de forma normal con exito, invoca de forma especial, desde tu mazo o mano, 1 Pokemon Planta
