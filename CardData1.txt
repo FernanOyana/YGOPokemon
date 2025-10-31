@@ -252,6 +252,8 @@ Pescador	5DS1	Pescador	Normal	Spell				3	TCG	Anade 1 'Supercana' y 1 'Pokeball' 
 Entrenador Guay	5DS1	Entrenador_Guay	Normal	Spell				3	TCG	Roba cartas de la parte superior de tu mazo hasta que tengas 6 cartas en tu mano
 Ornitologo	5DS1	Ornitologo	Normal	Spell				3	TCG	Busca en tu mazo 1 Pokemon Volador y anadelo a tu mano. Mezcla el mazo
 Nadador	5DS1	Nadador	Normal	Spell				3	TCG	Busca en tu mazo 1 Pokemon de AGUA y anadelo a tu mano. Mezcla el mazo
+Karateka	5DS1	Karateka	Normal	Spell				3	TCG	Busca en tu mazo 1 Pokemon Lucha y anadelo a tu mano. Mezcla el mazo
+Medium	5DS1	Medium	Normal	Spell				3	TCG	Busca en tu mazo 1 Pokemon Psiquico y anadelo a tu mano. Mezcla el mazo
 Exorcista	5DS1	Exorcista	Normal	Spell				3	TCG	Busca en tu mazo 1 Pokemon Fantasma y anadelo a tu mano. Mezcla el mazo
 Jefe Giovanni	5DS1	Jefe_Giovanni	Normal	Spell				1	TCG	Tu oponente destierra toda su mano. Roba 1 carta por cada carta desterrada por este efecto
 Soldado Team Rocket	5DS1	Soldado_Team_Rocket	Normal	Spell				3	TCG	Toma el control de 1 Pokemon en el campo del oponente
@@ -296,6 +298,17 @@ Restaurar Todo	5DS1	Restaurar_Todo	Normal	Spell				3	TCG	Incrementa tus Life Poi
 Moneda Amuleto	5DS1	Moneda_Amuleto	Equip	Spell				1	TCG	Equipa esta carta a 1 Pokemon que controles. Cuando el Pokemon equipado destruye a 1 Pokemon del oponente, robas 1 carta de la parte superior de tu mazo
 Repartir Exp	5DS1	Repartir_Exp	Equip	Spell				1	TCG	Equipa esta carta a 1 Pokemon que controles. Cuando otro Pokemon en tu lado del campo destruye a 1 Pokemon del oponente, incrementa los puntos de ATK y DEF del Pokemon equipado con esta carta en un valor equivalente al nivel del Pokemon destruido x100
 Planta Feroz	5DS1	Planta_Feroz	Normal	Spell				3	TCG	Debes controlar 1 Pokemon Planta para activar esta carta. Inflige 1500 puntos de dano a los Life Points de tu oponente. No puedes declarar ataques en el turno en que es activada esta carta
+Mansion Pokemon	5DS1	Mansion_Pokemon	Field	Spell				3	TCG	Todos los Pokemon Veneno ganan 200 puntos de ATK y DEF
+Laboratorio Pokemon	5DS1	Laboratorio_Pokemon	Continuous	Spell				1	TCG	Una vez por turno, durante tu Main Phase, muestra 1 'Fosil Domo', 'Fosil Helix' o 'Ambar Viejo' en tu mano. Anade a tu mano, desde tu mazo, 1 Pokemon que figure en el efecto de la carta mostrada. Mezcla el mazo. 
+Sr Fuji	5DS1	Sr_Fuji	Normal	Spell				1	TCG	Cuando 1 'Cubone' que controlas es atacado, niega el ataque. En adicion, anade 1 'Pokeflauta' de tu mazo a tu mano. Mezcla el mazo.
+Cueva Diglett	5DS1	Cueva_Diglett	Field	Spell				3	TCG	Una vez por turno, durante tu Main Phase, mira las 3 primeras cartas de la parte superior de tu mazo. Si hay 1 'Diglett' o 'Dugtrio', anadelo a tu mano y devuelve las otras 2 cartas en el orden original
+Cientifico	5DS1	Cientifico	Normal	Spell				3	TCG	Busca en tu mazo 1 Pokemon Electrico o Veneno de nivel 3 y anadelo a tu mano. Mezcla el mazo 
+Guarderia Pokemon	5DS1	Guarderia_Pokemon	Continuous	Spell				1	TCG	Una vez por turno, durante tu Main Phase, selecciona y destierra 1 Pokemon que controles. Puedes regresarlo al campo en la Standby Phase de cualquiera de tus siguientes turnos, y gana 100 puntos de ATK y DEF por cada uno de los turnos en los que permanecio desterrado. Solo puedes desterrar 1 Pokemon por el efecto de esta carta
+Entrenador Red	5DS1	Entrenador_Red	Normal	Spell				3	TCG	Puedes activar esta carta si no controlas Pokemon en tu campo. Invoca de forma especial, desde tu mano, 1 'Charmander'. En adicion, mira las 3 primeras cartas de la parte superior de tu mazo. Si alguna es 1 carta mágica normal o 1 Pokemon cuyo nombre sea 'Charmeleon' o 'Charizard', anadela a tu mano y devuelve las otras 2 cartas en el orden original. Solo puedes activar 1 'Entrenador Red' por turno.
+Ventisca	5DS1	Ventisca	Normal	Spell				3	TCG	Debes controlar 1 Pokemon Hielo de nivel 5 o superior para activar esta carta. Selecciona y destruye todos los Pokemon Dragon y Planta en el campo del oponente.
+Trueno	5DS1	Trueno	Normal	Spell				3	TCG	Debes controlar 1 Pokemon Electrico de nivel 5 o superior para activar esta carta. Lanza 1 moneda: si el resultado es cara, selecciona y destruye 1 Pokemon de AGUA o VIENTO en el campo del oponente. Si 'Danza Lluvia' se encuentra activa en el campo, evita el lanzamiento de moneda
+Rival Blue	5DS1	Rival_Blue	Normal	Spell				3	TCG	Activa esta carta si tu oponente controla al menos 1 Pokemon y tu no controlas ninguno. Invoca de forma especial, desde tu mano, 1 Squirtle. En adicion, mira las 4 primeras cartas de la parte superior de tu mazo. Si alguna es 1 carta magica de equipo o 1 Pokemon cuyo nombre sea 'Wartortle' o 'Blastoise', anadela a tu mano y devuelve el resto de las cartas en el orden original. Solo puedes activar 1 'Rival Blue' por turno.
+
 
 
 
