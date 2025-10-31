@@ -297,3 +297,15 @@ general/Zapdos.jpg	https://raw.githubusercontent.com/FernanOyana/YGOPokemon/refs
 general/Zubat.jpg	https://raw.githubusercontent.com/FernanOyana/YGOPokemon/refs/heads/main/Zubat.jpg
 general/cardback.jpg	https://raw.githubusercontent.com/FernanOyana/YGOPokemon/refs/heads/main/cardback.jpg
 general/Planta_Feroz.jpg  https://raw.githubusercontent.com/FernanOyana/YGOPokemon/refs/heads/main/Planta_Feroz.jpg
+general/Cientifico.jpg  https://raw.githubusercontent.com/FernanOyana/YGOPokemon/refs/heads/main/Cientifico.jpg
+general/Cueva_Diglett.jpg  https://raw.githubusercontent.com/FernanOyana/YGOPokemon/refs/heads/main/Cueva_Diglett.jpg
+general/Entrenador_Red.jpg  https://raw.githubusercontent.com/FernanOyana/YGOPokemon/refs/heads/main/Entrenador_Red.jpg
+general/Guarderia_Pokemon.jpg  https://raw.githubusercontent.com/FernanOyana/YGOPokemon/refs/heads/main/Guarderia_Pokemon.jpg
+general/Karateka.jpg  https://raw.githubusercontent.com/FernanOyana/YGOPokemon/refs/heads/main/Karateka.jpg
+general/Medium.jpg  https://raw.githubusercontent.com/FernanOyana/YGOPokemon/refs/heads/main/Medium.jpg
+general/Mansion_Pokemon.jpg  https://raw.githubusercontent.com/FernanOyana/YGOPokemon/refs/heads/main/Mansion_Pokemon.jpg
+general/Rival_Blue.jpg  https://raw.githubusercontent.com/FernanOyana/YGOPokemon/refs/heads/main/Rival_Blue.jpg
+general/Sr_Fuji.jpg  https://raw.githubusercontent.com/FernanOyana/YGOPokemon/refs/heads/main/Sr_Fuji.jpg
+general/Ventisca.jpg  https://raw.githubusercontent.com/FernanOyana/YGOPokemon/refs/heads/main/Ventisca.jpg
+general/Trueno.jpg  https://raw.githubusercontent.com/FernanOyana/YGOPokemon/refs/heads/main/Trueno.jpg
+
