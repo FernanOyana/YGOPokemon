@@ -1,5 +1,5 @@
 Name	Set	ImageFile	Type	Attribute	Level	ATK	DEF	Limit	Format	Text
-Bulbasaur	5DS1	Bulbasaur	Planta	Tierra	4	600	900	3	TCG	Cuando esta carta destruye a 1 Pokemon, incrementa tus Life Points en un valor equivalente a la diferencia entre los puntos de ATK de ambas cartas.
+Bulbasaur	5DS1	Bulbasaur	Planta	Tierra	4	600	900	3	TCG	Una vez por turno, selecciona 1 Pokemon en el campo de tu oponente: mientras controles esta carta boca arriba en tu lado del campo, incrementa tus Life Points en un valor equivalente a la diferencia entre los puntos de ATK de esta carta y la carta seleccionada.
 Ivysaur	5DS1	Ivysaur	Planta	Tierra	5	1200	1600	3	TCG	Cuando esta carta es invocada de forma normal con exito, anade 1 'Paralizador' de tu mazo a tu mano. Mezcla el mazo. Si la carta 'Dia Soleado' se encuentra activa en el campo, roba 2 cartas en tu Draw Phase
 Venusaur	5DS1	Venusaur	Planta	Tierra	7	1950	2000	3	TCG	En cada una de tus standby phases, mientras esta carta permanezca en tu lado del campo, incrementa tus Life Points en 500 puntos.
 Charmander	5DS1	Charmander	Fuego	Fuego	4	800	500	3	TCG	Durante la Battle Phase de tu turno, si tus Life Points son 2000 o menos, duplica el ATK original de esta carta.
@@ -217,13 +217,13 @@ Mapa	5DS1	Mapa	Normal	Spell				1	TCG	Anade 1 carta magica de campo de tu mazo a 
 Scope Silph	5DS1	Scope_Silph	Normal	Spell				1	TCG	La carta 'Torre Pokemon' debe estar activa en el campo. Mira las 3 primeras cartas de tu mazo. Si hay 1 Pokemon Fantasma, anadelo a tu mano
 Bosque Verde	5DS1	Bosque_Verde	Field	Spell				3	TCG	Todos los Pokemon Bicho y Planta ganan 200 puntos de ATK y DEF.
 Mt. Moon	5DS1	Mt_Moon	Field	Spell				3	TCG	Todos los Pokemon Roca ganan 200 puntos de ATK y DEF.
-Mt. Ascuas	5DS1	Mt_Ascuas	Field	Spell				3	TCG	Todos los Pokemon Fuego ganan 200 puntos de ATK y DEF.
+Mt. Ascuas	5DS1	Mt_Ascuas	Field	Spell				3	TCG	Todos los Pokemon Fuego ganan 200 puntos de ATK y DEF. Una vez por turno, durante tu Main Phase, mira las 3 primeras cartas de la parte superior de tu mazo. Si hay 1 'Moltres', anadelo a tu mano y regresa el resto de las cartas en el orden original
 Cueva Glaciada	5DS1	Cueva_Glaciada	Field	Spell				3	TCG	Todos los Pokemon Hielo ganan 200 puntos de ATK y DEF, y ademas los Pokemon Tierra y Planta pierden 200 puntos de ATK y DEF
 Cueva Perdida	5DS1	Cueva_Perdida	Field	Spell				3	TCG	Todos los Pokemon Fantasma ganan 400 puntos de ATK y DEF.
-Islas Espuma	5DS1	Islas_Espuma	Field	Spell				3	TCG	Todos los Pokemon Agua ganan 200 puntos de ATK y DEF, y ademas los Pokemon Fuego, Tierra y Roca pierden 200 puntos de ATK y DEF
-Central Energia	5DS1	Central_Energia	Field	Spell				3	TCG	Todos los Pokemon Electricos ganan 200 puntos de ATK y DEF.
+Islas Espuma	5DS1	Islas_Espuma	Field	Spell				3	TCG	Todos los Pokemon Agua ganan 200 puntos de ATK y DEF, y ademas los Pokemon Fuego, Tierra y Roca pierden 200 puntos de ATK y DEF. Una vez por turno, durante tu Main Phase, mira las 3 primeras cartas de la parte superior de tu mazo. Si hay 1 'Articuno', anadelo a tu mano y regresa el resto de las cartas en el orden original
+Central Energia	5DS1	Central_Energia	Field	Spell				3	TCG	Todos los Pokemon Electricos ganan 200 puntos de ATK y DEF. Una vez por turno, durante tu Main Phase, mira las 3 primeras cartas de la parte superior de tu mazo. Si hay 1 'Zapdos', anadelo a tu mano y regresa el resto de las cartas en el orden original.
 Calle Victoria	5DS1	Calle_Victoria	Field	Spell				3	TCG	Todos los Pokemon Tierra y Roca ganan 400 puntos de ATK y DEF. Una vez por turno, durante tu Main Phase, mira las 3 primeras cartas de la parte superior de tu mazo. Si hay 1 carta de 'Entrenador Guay', anadela a tu mano y devuelve las otras 2 cartas en el orden original
-Cueva Celeste	5DS1	Cueva_Celeste	Field	Spell				3	TCG	Una vez por turno, durante tu Main Phase, mira las 3 primeras cartas de la parte superior de tu mazo. Si hay 1 Pokemon Roca o Lucha, añadelo a tu mano y regresa el resto de las cartas en el orden original. En adicion, lanza 1 moneda a cara o cruz. Si el resultado es 'cara', anade 1 'Mewtwo' de tu mazo a tu mano. Mezcla el mazo
+Cueva Celeste	5DS1	Cueva_Celeste	Field	Spell				3	TCG	Una vez por turno, durante tu Main Phase, mira las 3 primeras cartas de la parte superior de tu mazo. Si hay 1 Pokemon Roca o Lucha, anadelo a tu mano y regresa el resto de las cartas en el orden original. En adicion, lanza 1 moneda a cara o cruz. Si el resultado es 'cara', anade 1 'Mewtwo' de tu mazo a tu mano. Mezcla el mazo
 Tunel Roca	5DS1	Tunel_Roca	Field	Spell				3	TCG	Todos los Pokemon Tierra, Roca y Lucha ganan 300 puntos de ATK y DEF.
 Torre Pokemon	5DS1	Torre_Pokemon	Field	Spell				3	TCG	Todos los Pokemon Fantasma ganan 200 puntos de ATK y DEF.
 Dojo Karate	5DS1	Dojo_Karate	Field	Spell				3	TCG	Todos los Pokemon Lucha ganan 200 puntos de ATK y DEF.
