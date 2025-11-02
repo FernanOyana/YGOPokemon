@@ -73,7 +73,7 @@ Victreebell	5DS1	Victreebell	Planta	Tierra	6	1500	1600	3	TCG	Esta carta solo pue
 Tentacool	5DS1	Tentacool	Veneno	Agua	3	700	1000	3	TCG	Cuando esta carta declara un ataque, antes del calculo de dano, reduce la DEF del objetivo en 300 puntos
 Tentacruel	5DS1	Tentacruel	Agua	Agua	5	1200	1600	3	TCG	Cuando esta carta es invocada con exito, selecciona 1 Pokemon del oponente: no podra atacar mientras esta carta se encuentre boca arriba en tu lado del campo
 Geodude	5DS1	Geodude	Roca	Tierra	3	600	1000	3	TCG	Esta carta no puede ser destruida en batalla por Pokemon Electricos. Cuando es declarada como objetivo de ataque de una carta del oponente, cambia esta carta a posicion de defensa
-Graveler	5DS1	Graveler	Roca	Tierra	5	900	1700	3	TCG	Esta carta no puede ser destruida en batalla por Pokemon Electricos. Durante la fase de batalla de cualquier jugador, cuando esta carta batalla contra un Pokemon de Viento o Fuego, duplica su ATK
+Graveler	5DS1	Graveler	Roca	Tierra	5	900	1700	3	TCG	Esta carta no puede ser destruida en batalla por Pokemon Electricos. Durante la Battle Phase del turno de cualquier jugador, cuando esta carta batalla contra un Pokemon de VIENTO o FUEGO, duplica su ATK
 Golem	5DS1	Golem	Roca	Tierra	7	2100	2300	3	TCG	Esta carta no puede ser destruida en batalla por Pokemon Electricos. Cuando esta carta es invocada con exito, anade 1 'Terremoto' de tu mazo a tu mano. Mezcla el mazo
 Ponyta	5DS1	Ponyta	Fuego	Fuego	4	1200	1000	3	TCG	Esta carta no puede ser  destruida en batalla por Pokemon Fuego, y ademas reduce a 0 el dano efectuado
 Rapidash	5DS1	Rapidash	Fuego	Fuego	6	1600	1400	3	TCG	Cuando esta carta es invocada con exito, reduce el ATK de los Pokemon del oponente en 500 puntos
