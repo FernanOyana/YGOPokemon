@@ -206,6 +206,7 @@
 <set>YZ02</set>
 <set>YZ03</set>
 <set>ZTIN</set>
+<set>JHT02</set>
 </format>
 
 <format><label>OCG</label>
