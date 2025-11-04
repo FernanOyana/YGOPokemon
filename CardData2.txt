@@ -1,0 +1,2 @@
+Name	Set	ImageFile	Type	Attribute	Level	ATK	DEF	Limit	Format	Text
+Bulbasaur	5DS1	Bulbasaur	Planta	Tierra	4	600	900	3	TCG	Una vez por turno, selecciona 1 Pokemon en el campo de tu oponente: mientras controles esta carta boca arriba en tu lado del campo, incrementa tus Life Points en un valor equivalente a la diferencia entre los puntos de ATK de esta carta y la carta seleccionada.
