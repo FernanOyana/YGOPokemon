@@ -308,4 +308,5 @@ general/Rival_Blue.jpg  https://raw.githubusercontent.com/FernanOyana/YGOPokemon
 general/Sr_Fuji.jpg  https://raw.githubusercontent.com/FernanOyana/YGOPokemon/refs/heads/main/Sr_Fuji.jpg
 general/Ventisca.jpg  https://raw.githubusercontent.com/FernanOyana/YGOPokemon/refs/heads/main/Ventisca.jpg
 general/Trueno.jpg  https://raw.githubusercontent.com/FernanOyana/YGOPokemon/refs/heads/main/Trueno.jpg
+general/Entrenadora_Green.jpg  https://raw.githubusercontent.com/FernanOyana/YGOPokemon/refs/heads/main/Entrenadora_Green.jpg
 
