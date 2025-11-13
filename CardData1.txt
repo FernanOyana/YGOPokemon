@@ -78,7 +78,7 @@ Golem	5DS1	Golem	Roca	Tierra	7	2100	2300	3	TCG	Esta carta no puede ser destruida
 Ponyta	5DS1	Ponyta	Fuego	Fuego	4	1200	1000	3	TCG	Esta carta no puede ser  destruida en batalla por Pokemon Fuego, y ademas reduce a 0 el dano efectuado
 Rapidash	5DS1	Rapidash	Fuego	Fuego	6	1600	1400	3	TCG	Cuando esta carta es invocada con exito, reduce el ATK de los Pokemon del oponente en 500 puntos
 Slowpoke	5DS1	Slowpoke	Agua	Agua	3	400	600	3	TCG	Volteo: selecciona 1 Pokemon del oponente. Por 3 turnos, no podra atacar, activar efectos o cambiar su posicion de batalla
-Slowbro	5DS1	Slowbro	Agua	Agua	5	1100	1500	3	TCG	Una vez por turno, durante tu Standby Phase, paga 500 Life Points. Aumenta el ATK y la DEF de esta carta en 250 puntos
+Slowbro	5DS1	Slowbro	Agua	Agua	5	1100	1500	3	TCG	Una vez por turno, durante tu Standby Phase, paga la mitad de Life Points. Aumenta el ATK y la DEF de esta carta en 500 puntos
 Magnemite	5DS1	Magnemite	Electrico	Luz	3	500	700	3	TCG	Cuando esta carta es invocada con exito, invoca 1 'Magnemite' desde tu mano.
 Magneton	5DS1	Magneton	Electrico	Luz	6	1750	1400	3	TCG	Esta carta solo puede ser invocada de forma especial enviando 3 'Magnemite' de tu Campo al Cementerio. Una vez por turno, durante tu Main Phase, selecciona 1 Pokemon del oponente: hasta el final del turno, el Pokemon no podra activar efectos que impidan atacar ni ser seleccionado por cartas que cancelen ataques
 Farfetch'd	5DS1	Farfetchd	Volador	Viento	3	700	650	3	TCG	Cuando esta carta es invocada de forma normal con exito, anade 1 'Puerro' de tu mazo a tu mano. Mezcla el mazo
