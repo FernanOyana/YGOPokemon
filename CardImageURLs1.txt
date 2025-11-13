@@ -483,6 +483,7 @@ general/Foco_Resplandor.jpg	https://raw.githubusercontent.com/FernanOyana/YGOPok
 general/Pulso_Umbrio.jpg	https://raw.githubusercontent.com/FernanOyana/YGOPokemon/refs/heads/main/Pulso_Umbrio.jpg
 general/Ataque_Ala.jpg	https://raw.githubusercontent.com/FernanOyana/YGOPokemon/refs/heads/main/Ataque_Ala.jpg
 general/Viento_Plata.jpg	https://raw.githubusercontent.com/FernanOyana/YGOPokemon/refs/heads/main/Viento_Plata.jpg
+general/Bomba_Lodo.jpg	https://raw.githubusercontent.com/FernanOyana/YGOPokemon/refs/heads/main/Bomba_Lodo.jpg
 	
 
 
