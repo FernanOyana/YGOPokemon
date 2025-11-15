@@ -163,4 +163,16 @@ Ejecutivo Petrel	JHT02	Ejecutivo_Petrel	Normal	Trap				1	TCG	La carta 'Lago de l
 Ejecutivo Apolo	JHT02	Ejecutivo_Apolo	Normal	Trap				1	TCG	La carta 'Torre Radio de Ciudad Trigal' debe estar activa en el campo. Mira las 7 primeras cartas de la parte superior de tu mazo. Si alguna es 1 'Jefe Giovanni', ponla en la parte superior de tu mazo.
 Ejecutiva Atenea	JHT02	Ejecutiva_Atenea	Normal	Trap				1	TCG	La carta 'Torre Radio de Ciudad Trigal' debe estar activa en el campo. Busca en tu mazo 1 Pokemon Veneno o Siniestro y anadelo a tu mano. Mezcla el mazo
 Torre Radio de Ciudad Trigal	JHT02	Torre_Radio	Field	Spell				1	TCG	Una vez por turno, durante tu Main Phase, mira las 4 primeras cartas de la parte superior de tu mazo. Si alguna es 1 Pokemon, ponla en la parte superior de tu mazo.
+Lanzallamas	5DS1	Lanzallamas	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon Fuego de nivel 5 o superior. Gana 800 puntos de ATK. Un Pokemon solo puede ser equipado con 1 'Lanzallamas' a la vez
+Hoja Afilada	5DS1	Hoja_Afilada	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon Planta de nivel 5 o superior. Gana 600 puntos de ATK. Un Pokemon solo puede ser equipado con 1 'Hoja Afilada' a la vez
+Rayo Burbuja	5DS1	Rayo_Burbuja	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon Agua de nivel 5 o superior. Gana 700 puntos de ATK. Un Pokemon solo puede ser equipado con 1 'Rayo Burbuja' a la vez
+Rayo Aurora	5DS1	Rayo_Aurora	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon Hielo de nivel 5 o superior. Gana 600 puntos de ATK. Un Pokemon solo puede ser equipado con 1 'Rayo Aurora' a la vez
+Luz Lunar	5DS1	Luz_Lunar	Normal	Spell				3	TCG	Debes controlar 1 'Clefairy' o 'Clefable' para activar esta carta. Incrementa tus Life Points en 1000 puntos.
+Brillo Magico	5DS1	Brillo_Magico	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon Hada. Gana 800 puntos de ATK. Un Pokemon solo puede ser equipado con 1 'Brillo Magico' a la vez
+Foco Resplandor	5DS1	Foco_Resplandor	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon Acero. Gana 800 puntos de ATK. Un Pokemon solo puede ser equipado con 1 'Foco Resplandor' a la vez
+Pulso Umbrio	5DS1	Pulso_Umbrio	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon Siniestro. Gana 800 puntos de ATK. Un Pokemon solo puede ser equipado con 1 'Pulso Umbrio' a la vez
+Ataque Ala	5DS1	Ataque_Ala	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon Volador de nivel 5 o superior. Gana 600 puntos de ATK. Un Pokemon solo puede ser equipado con 1 'Ataque Ala' a la vez
+Bomba Lodo	5DS1	Bomba_Lodo	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon Veneno. Gana 900 puntos de ATK. Un Pokemon solo puede ser equipado con 1 'Bomba Lodo' a la vez
+Viento Plata	5DS1	Viento_Plata	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon Bicho cuyo atributo sea VIENTO. Gana 900 puntos de ATK. Un Pokemon solo puede ser equipado con 1 'Viento Plata' a la vez
+
 
