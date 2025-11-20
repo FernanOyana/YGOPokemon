@@ -345,7 +345,7 @@ general/Azumarill.jpg	https://raw.githubusercontent.com/FernanOyana/YGOPokemon/r
 general/Sudowoodo.jpg	https://raw.githubusercontent.com/FernanOyana/YGOPokemon/refs/heads/main/Sudowoodo.jpg
 general/Politoed.jpg	https://raw.githubusercontent.com/FernanOyana/YGOPokemon/refs/heads/main/Politoed.jpg
 general/Hoppip.jpg	https://raw.githubusercontent.com/FernanOyana/YGOPokemon/refs/heads/main/Hoppip.jpg
-general/Skiplum.jpg	https://raw.githubusercontent.com/FernanOyana/YGOPokemon/refs/heads/main/Skiplum.jpg
+general/Skiploom.jpg	https://raw.githubusercontent.com/FernanOyana/YGOPokemon/refs/heads/main/Skiploom.jpg
 general/Jumpluff.jpg	https://raw.githubusercontent.com/FernanOyana/YGOPokemon/refs/heads/main/Jumpluff.jpg
 general/Aipom.jpg	https://raw.githubusercontent.com/FernanOyana/YGOPokemon/refs/heads/main/Aipom.jpg
 general/Sunkern.jpg	https://raw.githubusercontent.com/FernanOyana/YGOPokemon/refs/heads/main/Sunkern.jpg

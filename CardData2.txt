@@ -35,7 +35,7 @@ Azumarill	JHT02	Azumarill	Agua	Agua	5	1400	1800	3	TCG	Durante cada una de tus St
 Sudowoodo	JHT02	Sudowoodo	Roca	Tierra	4	1600	1900	3	TCG	Una vez por turno, selecciona 1 Pokemon en el campo. El efecto de esta carta se convierte en el efecto del Pokemon seleccionado hasta el final del turno
 Politoed	JHT02	Politoed	Agua	Agua	6	1700	1600	3	TCG	Esta carta solo puede ser invocada por el efecto de "Roca del Rey" y enviando al Cementerio 1 'Poliwhirl' en tu lado del campo. Si la carta 'Danza Lluvia' se encuentra activa en el campo, esta carta no puede ser destruida por efectos de Pokemon
 Hoppip	JHT02	Hoppip	Planta	Viento	3	300	500	3	TCG	Esta carta no puede ser seleccionada por ataques de Pokemon Tierra. Si la carta 'Dia Soleado' se encuentra activa en el campo, puedes invocar esta carta de forma especial. 
-Skiplum	JHT02	Skiplum	Planta	Viento	5	600	1200	3	TCG	Esta carta no puede ser seleccionada por ataques de Pokemon Tierra. Cuando ataca a los Life Points de tu oponente, incrementa tus Life Points en un valor equivalente al dano efectuado
+Skiploom	JHT02	Skiploom	Planta	Viento	5	600	1200	3	TCG	Esta carta no puede ser seleccionada por ataques de Pokemon Tierra. Cuando ataca a los Life Points de tu oponente, incrementa tus Life Points en un valor equivalente al dano efectuado
 Jumpluff	JHT02	Jumpluff	Planta	Viento	7	1400	1600	3	TCG	Esta carta no puede ser seleccionada por ataques de Pokemon Tierra. Cuando es invocada, selecciona 1 Pokemon que tu oponente controle. No podra atacar o cambiar su posicion de batalla por 3 turnos. 
 Aipom	JHT02	Aipom	Normal	Tierra	3	600	500	3	TCG	Volteo: anade 1 carta Magica de Equipo de tu Cementerio a tu mano
 Sunkern	JHT02	Sunkern	Planta	Tierra	2	300	300	3	TCG	Volteo: si la carta 'Dia Soleado' se encuentra activa en el campo, roba 1 carta de la parte superior de tu mazo
@@ -164,7 +164,7 @@ Ejecutivo Apolo	JHT02	Ejecutivo_Apolo	Normal	Trap				1	TCG	La carta 'Torre Radio
 Ejecutiva Atenea	JHT02	Ejecutiva_Atenea	Normal	Trap				1	TCG	La carta 'Torre Radio de Ciudad Trigal' debe estar activa en el campo. Busca en tu mazo 1 Pokemon Veneno o Siniestro y anadelo a tu mano. Mezcla el mazo
 Torre Radio de Ciudad Trigal	JHT02	Torre_Radio	Field	Spell				1	TCG	Una vez por turno, durante tu Main Phase, mira las 4 primeras cartas de la parte superior de tu mazo. Si alguna es 1 Pokemon, ponla en la parte superior de tu mazo.
 Lanzallamas	5DS1	Lanzallamas	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon Fuego de nivel 5 o superior. Gana 800 puntos de ATK. Un Pokemon solo puede ser equipado con 1 'Lanzallamas' a la vez
-Hoja Afilada	5DS1	Hoja_Afilada	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon Planta de nivel 5 o superior. Gana 600 puntos de ATK. Un Pokemon solo puede ser equipado con 1 'Hoja Afilada' a la vez
+Hoja Afilada	5DS1	Hoja_Afilada	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon Planta de nivel 5. Gana 600 puntos de ATK. Un Pokemon solo puede ser equipado con 1 'Hoja Afilada' a la vez
 Rayo Burbuja	5DS1	Rayo_Burbuja	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon Agua de nivel 5 o superior. Gana 700 puntos de ATK. Un Pokemon solo puede ser equipado con 1 'Rayo Burbuja' a la vez
 Rayo Aurora	5DS1	Rayo_Aurora	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon Hielo de nivel 5 o superior. Gana 600 puntos de ATK. Un Pokemon solo puede ser equipado con 1 'Rayo Aurora' a la vez
 Luz Lunar	5DS1	Luz_Lunar	Normal	Spell				3	TCG	Debes controlar 1 'Clefairy' o 'Clefable' para activar esta carta. Incrementa tus Life Points en 1000 puntos.

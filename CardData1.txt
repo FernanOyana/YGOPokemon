@@ -289,7 +289,7 @@ Carga	5DS1	Carga	Normal	Spell				3	TCG	Selecciona 1 Pokemon Electrico que contro
 Anillo Igneo	5DS1	Anillo_Igneo	Normal	Spell				2	TCG	Debes controlar 1 Pokemon Fuego para activar esta carta. Inflige 1500 puntos de dano a los Life Points de tu oponente. No puedes declarar ataques en el turno en que es activada esta carta
 Hidrocanon	5DS1	Hidrocanon	Normal	Spell				2	TCG	Debes controlar 1 Pokemon Agua para activar esta carta. Inflige 1500 puntos de dano a los Life Points de tu oponente. No puedes declarar ataques en el turno en que es activada esta carta
 Paralizador	5DS1	Paralizador	Continuous	Trap				3	TCG	Debes controlar 1 Pokemon Planta para activar esta carta. Selecciona 1 Pokemon que tu oponente controle: no podra atacar ni cambiar su posicion de batalla mientras esta carta siga activa en el campo
-Latigo Cepa	5DS1	Latigo_Cepa	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon Planta de nivel 4 o superior. Gana 400 puntos de ATK. Un Pokemon solo puede ser equipado con 1 'Latigo Cepa' a la vez
+Latigo Cepa	5DS1	Latigo_Cepa	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon Planta de nivel 4. Gana 400 puntos de ATK. Un Pokemon solo puede ser equipado con 1 'Latigo Cepa' a la vez
 Pistola Agua	5DS1	Pistola_Agua	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon Agua de nivel 3 o superior. Gana 400 puntos de ATK. Un Pokemon solo puede ser equipado con 1 'Pistola Agua' a la vez
 Ascuas	5DS1	Ascuas	Equip 	Spell				3	TCG	Equipa esta carta a 1 Pokemon Fuego. Gana 400 puntos de ATK. Un Pokemon solo puede ser equipado con 1 'Ascuas' a la vez
 Tumba Rocas	5DS1	Tumba_Rocas	Equip	Spell				3	TCG	Equipa esta carta a 1 Pokemon Roca. Durante la Battle Phase de tu turno gana 600 puntos de ATK. Un Pokemon solo puede ser equipado con 1 'Tumba Rocas' a la vez
