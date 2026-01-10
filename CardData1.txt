@@ -94,7 +94,7 @@ Gastly	5DS1	Gastly	Fantasma	Oscuridad	3	400	500	3	TCG	Esta carta no puede ser se
 Haunter	5DS1	Haunter	Fantasma	Oscuridad	5	1600	1200	3	TCG	Esta carta no puede ser seleccionada por ataques de Pokemon Tierra, Lucha y normal. Cuando esta carta declara un ataque, antes del calculo de dano, ignora los efectos que impiden atacar. Una vez por turno, durante tu Standby Phase, paga la mitad de tus Life Points. Reduce el ATK de 1 Pokemon en un valor equivalente a los Life Points pagados por este efecto
 Gengar	5DS1	Gengar	Fantasma	Oscuridad	7	2000	1600	3	TCG	Esta carta no puede ser seleccionada por ataques de Pokemon Tierra, Lucha y Normal. Cuando esta carta ataca 1 Pokemon, reduce la DEF del objetivo en 500 puntos. Mientras esta carta permanezca boca arriba, tu oponente no puede activar efectos de cartas de Pokemon.
 Onix	5DS1	Onix	Roca	Tierra	4	1200	1700	3	TCG	Esta carta no puede ser destruida en batalla por Pokemon Electricos. Cuando es invocada de forma normal, reduce la DEF de todos los Pokemon del oponente en 500 puntos
-Drowzee	5DS1	Drowzee	Psiquico	Luz	3	600	400	3	TCG	Esta carta no puede ser seleccionada por efectos que impidan atacar. Cuando destruye a 1 Pokemon afectado por 'Hipnosis', incrementa tus Life Points en un valor equivalente a la diferencia de ATK de ambas cartas
+Drowzee	5DS1	Drowzee	Psiquico	Luz	3	600	900	3	TCG	Esta carta no puede ser seleccionada por efectos que impidan atacar. Cuando destruye a 1 Pokemon afectado por 'Hipnosis', incrementa tus Life Points en un valor equivalente a la diferencia de ATK de ambas cartas
 Hypno	5DS1	Hypno	Psiquico	Luz	5	1500	1600	3	TCG	Selecciona 1 Pokemon que el oponente controla: por 1 turno no podra atacar, cambiar su posicion de batalla ni activar efectos
 Krabby	5DS1	Krabby	Agua	Agua	3	800	900	3	TCG	Es facil encontrarlo cerca del mar. Las largas pinzas que tiene vuelven a crecer si se las quitan de su sitio
 Kingler	5DS1	Kingler	Agua	Agua	5	1700	1900	3	TCG	La pinza tan grande que tiene posee una fuerza de 10,000 caballos de potencia. Pero, por su gran tamano, cuesta moverla
@@ -309,6 +309,7 @@ Ventisca	5DS1	Ventisca	Normal	Spell				2	TCG	Debes controlar 1 Pokemon Hielo de 
 Trueno	5DS1	Trueno	Normal	Spell				2	TCG	Debes controlar 1 Pokemon Electrico de nivel 5 o superior para activar esta carta. Lanza 1 moneda: si el resultado es cara, selecciona y destruye 1 Pokemon de AGUA o VIENTO en el campo del oponente. Si 'Danza Lluvia' se encuentra activa en el campo, evita el lanzamiento de moneda
 Rival Blue	5DS1	Rival_Blue	Normal	Spell				3	TCG	Activa esta carta si tu oponente controla al menos 1 Pokemon y tu no controlas ninguno. Invoca de forma especial, desde tu mano, 1 'Squirtle'. En adicion, mira las 4 primeras cartas de la parte superior de tu mazo. Si alguna es 1 carta magica de equipo o 1 Pokemon cuyo nombre sea 'Wartortle' o 'Blastoise', anadela a tu mano y devuelve el resto de las cartas en el orden original. Solo puedes activar 1 'Rival Blue' por turno.
 Entrenadora Green	5DS1	Entrenadora_Green	Normal	Spell				3	TCG	Puedes activar esta carta si controlas 1 'Bulbasaur': anade desde tu mazo a tu mano, 1 Pokémon cuyo nombre sea 'Ivysaur' o 'Venusaur'. Mezcla el mazo. En adicion, roba cartas hasta que tengas 5 cartas en tu mano. Solo puedes activar 1 'Entrenadora Green' por turno.
+
 
 
 
